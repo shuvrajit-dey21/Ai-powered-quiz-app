@@ -1,0 +1,488 @@
+{
+    "easy": [
+        {
+            "question": "\"The Singing Cowboy\" Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
+            "options": [
+                "Here Comes Santa Claus",
+                "White Christmas",
+                "Rudolph the Red-Nosed Reindeer",
+                "Frosty the Snowman"
+            ],
+            "correct_answer": "White Christmas",
+            "category": "Music",
+            "difficulty": "easy"
+        },
+        {
+            "question": "The 2016 song \"Starboy\" by Canadian singer The Weeknd features which prominent electronic artist?",
+            "options": [
+                "DJ Shadow",
+                "deadmau5",
+                "Daft Punk",
+                "Disclosure"
+            ],
+            "correct_answer": "Daft Punk",
+            "category": "Music",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What album did The Lumineers release in 2016?",
+            "options": [
+                "Tracks From The Attic",
+                "The Lumineers",
+                "Cleopatra",
+                "Winter"
+            ],
+            "correct_answer": "Cleopatra",
+            "category": "Music",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Who is the lead singer of Pearl Jam?",
+            "options": [
+                "Ozzy Osbourne",
+                "Eddie Vedder",
+                "Stone Gossard",
+                "Kurt Cobain"
+            ],
+            "correct_answer": "Eddie Vedder",
+            "category": "Music",
+            "difficulty": "easy"
+        },
+        {
+            "question": "How many strings are there on a cello?",
+            "options": [
+                "5",
+                "8",
+                "6",
+                "4"
+            ],
+            "correct_answer": "4",
+            "category": "Music",
+            "difficulty": "easy"
+        },
+        {
+            "question": "The \"British Invasion\" was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",
+            "options": [
+                "50's",
+                "60's",
+                "40's",
+                "30's"
+            ],
+            "correct_answer": "60's",
+            "category": "Music",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What was the subject of the 2014 song \"CoCo\" by American rapper O. T. Genasis?",
+            "options": [
+                "Cocaine",
+                "Cobalt(II) carbonate",
+                "Conan O'Brien",
+                "Coconut cream pie"
+            ],
+            "correct_answer": "Cocaine",
+            "category": "Music",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which of the following songs was not originally released by Sir Elton John? ",
+            "options": [
+                "Candle in the Wind",
+                "You'll Be In My Heart",
+                "Crocodile Rock",
+                "I Don't Wanna Go On With You Like That"
+            ],
+            "correct_answer": "You'll Be In My Heart",
+            "category": "Music",
+            "difficulty": "easy"
+        },
+        {
+            "question": "The four strings on a violin are the G string, D string, A string, and...",
+            "options": [
+                "E string",
+                "B string",
+                "F string",
+                "C string"
+            ],
+            "correct_answer": "E string",
+            "category": "Music",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Who is the lead singer of Foo Fighters?",
+            "options": [
+                "Little Red Riding Hood",
+                "James Hetfield",
+                "Dave Grohl",
+                "Dave Mustaine"
+            ],
+            "correct_answer": "Dave Grohl",
+            "category": "Music",
+            "difficulty": "easy"
+        }
+    ],
+    "medium": [
+        {
+            "question": "Irish musician Hozier released a music track in 2013 titled, \"Take Me to ______\"",
+            "options": [
+                "Mosque",
+                "Synagogue",
+                "Church",
+                "Temple"
+            ],
+            "correct_answer": "Church",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What date is referenced in the 1971 song \"September\" by Earth, Wind & Fire?",
+            "options": [
+                "21st of September",
+                "24th of September",
+                "26th of September",
+                "23rd of September"
+            ],
+            "correct_answer": "21st of September",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Who is the lead singer of Bastille?",
+            "options": [
+                "Kyle Simmons",
+                "Chris Wood",
+                "Dan Smith",
+                "Will Farquarson"
+            ],
+            "correct_answer": "Dan Smith",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Who had a 1973 hit with the song 'Hocus Pocus'?",
+            "options": [
+                "Pilot",
+                "AC/DC",
+                "Rush",
+                "Focus"
+            ],
+            "correct_answer": "Focus",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "When was the 3rd album \"Notes from the Underground\" of the band \"Hollywood Undead\" released?",
+            "options": [
+                "2009",
+                "2014",
+                "2013",
+                "2011"
+            ],
+            "correct_answer": "2013",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "May 16th of every year is known as __________ Day, named after a punk band prominent in the 1990s.",
+            "options": [
+                "Goldfinger",
+                "Lit",
+                "Lagwagon",
+                "Less Than Jake"
+            ],
+            "correct_answer": "Lagwagon",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the name of the 2016 studio album by the French electronic music duo Justice?",
+            "options": [
+                "Safe and Sound",
+                "Randy",
+                "Woman",
+                "Pleasure"
+            ],
+            "correct_answer": "Woman",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the relationship between the band members of American rock band King of Leon?",
+            "options": [
+                "Former classmates",
+                "Fraternity house members",
+                "Brothers & cousins",
+                "Childhood friends"
+            ],
+            "correct_answer": "Brothers & cousins",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which of these is NOT a name of an album released by American rapper Pitbull?",
+            "options": [
+                "Welcome to Miami",
+                "Global Warming",
+                "Dale",
+                "Armando"
+            ],
+            "correct_answer": "Welcome to Miami",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which Beatle led the way across the zebra crossing on the Abbey Road album cover?",
+            "options": [
+                "John",
+                "Ringo",
+                "Paul",
+                "George"
+            ],
+            "correct_answer": "John",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "The letters in the name of the band \"TWRP\" stand for what?",
+            "options": [
+                "Totally Wicked Robot Performers",
+                "Tupperware Remix Party",
+                "Taiwan Roleplay",
+                "Team Wild and the Radio Pirates"
+            ],
+            "correct_answer": "Tupperware Remix Party",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Typically, how many keys are on a piano?",
+            "options": [
+                "24",
+                "96",
+                "12",
+                "88"
+            ],
+            "correct_answer": "88",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "In what year was Tchaikovsky's 1812 Overture composed?",
+            "options": [
+                "1790",
+                "1812",
+                "1840",
+                "1880"
+            ],
+            "correct_answer": "1880",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Who is the founder and leader of industrial rock band, 'Nine Inch Nails'?",
+            "options": [
+                "Marilyn Manson",
+                "Trent Reznor",
+                "Josh Homme",
+                "Robin Finck"
+            ],
+            "correct_answer": "Trent Reznor",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What was the name of the Wu-Tang Clan album Martin Shkreli bought for $2 million dollars?",
+            "options": [
+                "8 Diagrams",
+                "A Better Tomorrow",
+                "The Saga Continues",
+                "Once Upon a Time in Shaolin"
+            ],
+            "correct_answer": "Once Upon a Time in Shaolin",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Who had hits in the 70s with the songs \"Lonely Boy\" and \"Never Let Her Slip Away\"?",
+            "options": [
+                "Elton John",
+                "Andrew Gold",
+                "Barry White ",
+                "Leo Sayer"
+            ],
+            "correct_answer": "Andrew Gold",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Saul Hudson (Slash) of the band Guns N' Roses is known for playing what type of guitar?",
+            "options": [
+                "Gretsch Falcon",
+                "Fender Stratocaster",
+                "Les Paul Standard",
+                "LsL Mongrel"
+            ],
+            "correct_answer": "Les Paul Standard",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the name of the second studio album released by American rapper Post Malone in 2018?",
+            "options": [
+                "Better Now",
+                "Rockstar",
+                "Beerbongs & Bentleys",
+                "Takin' Shots"
+            ],
+            "correct_answer": "Beerbongs & Bentleys",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which band released the album 'The Dark Side of the Moon'?",
+            "options": [
+                "Pink Floyd",
+                "The Beatles",
+                "Led Zeppelin",
+                "The Rolling Stones"
+            ],
+            "correct_answer": "Pink Floyd",
+            "category": "Music",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Who composed the 'Four Seasons'?",
+            "options": [
+                "Antonio Vivaldi",
+                "Johann Sebastian Bach",
+                "Wolfgang Amadeus Mozart",
+                "Ludwig van Beethoven"
+            ],
+            "correct_answer": "Antonio Vivaldi",
+            "category": "Music",
+            "difficulty": "medium"
+        }
+    ],
+    "hard": [
+        {
+            "question": "What year was Min Yoongi from South Korea boy band \"BTS\" born in?",
+            "options": [
+                "1992",
+                "1995",
+                "1993",
+                "1994"
+            ],
+            "correct_answer": "1993",
+            "category": "Music",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Who was the original drummer for The Beatles?",
+            "options": [
+                "Ringo Starr",
+                "Tommy Moore",
+                "Pete Best",
+                "Stuart Sutcliffe"
+            ],
+            "correct_answer": "Tommy Moore",
+            "category": "Music",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which album was released by Kanye West in 2013?",
+            "options": [
+                "The Life of Pablo",
+                "My Beautiful Dark Twisted Fantasy",
+                "Watch the Throne",
+                "Yeezus"
+            ],
+            "correct_answer": "Yeezus",
+            "category": "Music",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In the metal band Slipknot, there are 9 members, which member labelled themselves number 6? ",
+            "options": [
+                "Sid Wilson",
+                "Cory Taylor",
+                "Shawn Crahan (Clown)",
+                "Mick Thomson"
+            ],
+            "correct_answer": "Shawn Crahan (Clown)",
+            "category": "Music",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What song includes the words \"Numa Numa\" which was subject to a Viral Video in 2004?",
+            "options": [
+                "Asereje",
+                "Despacito",
+                "Dragostea Din Tei",
+                "Gangnam Style"
+            ],
+            "correct_answer": "Dragostea Din Tei",
+            "category": "Music",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which company did the animation for Peter Gabriel's Video Sledgehammer (1986)?",
+            "options": [
+                "Aardman Animations",
+                "Illumination Entertainment",
+                "VIZ Media",
+                "HIT Entertainment"
+            ],
+            "correct_answer": "Aardman Animations",
+            "category": "Music",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which member of the English band \"The xx\" released their solo album \"In Colour\" in 2015?",
+            "options": [
+                "Oliver Sim",
+                "Baria Qureshi",
+                "Jamie xx",
+                "Romy Madley Croft"
+            ],
+            "correct_answer": "Jamie xx",
+            "category": "Music",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In the Panic! At the Disco's song \"Nothern Downpour\", which lyric follows 'I know the world's a broken bone'.",
+            "options": [
+                "\"So sing your song until you're home\"",
+                "\"So start a fire in their cold stone\"",
+                "\"So let them know they're on their own\"",
+                "\"So melt your headaches call it home\""
+            ],
+            "correct_answer": "\"So melt your headaches call it home\"",
+            "category": "Music",
+            "difficulty": "hard"
+        },
+        {
+            "question": "This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.",
+            "options": [
+                "Pet Sounds",
+                "Led Zeppelin IV",
+                "The Velvet Underground and Nico",
+                "Abbey Road"
+            ],
+            "correct_answer": "The Velvet Underground and Nico",
+            "category": "Music",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Panic! At the Disco's sixth album \"Pray For The Wicked\" was released on which date?",
+            "options": [
+                "June 22, 2018",
+                "March 13, 2018",
+                "February 21, 2018",
+                "May 9, 2018"
+            ],
+            "correct_answer": "June 22, 2018",
+            "category": "Music",
+            "difficulty": "hard"
+        }
+    ]
+}

@@ -1,0 +1,368 @@
+{
+    "easy": [
+        {
+            "question": "Who won the 2017 Formula One World Drivers' Championship?",
+            "options": [
+                "Nico Rosberg",
+                "Max Verstappen",
+                "Lewis Hamilton",
+                "Sebastian Vettel"
+            ],
+            "correct_answer": "Lewis Hamilton",
+            "category": "Sports",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which player holds the NHL record of 2,857 points?",
+            "options": [
+                "Mario Lemieux ",
+                "Sidney Crosby",
+                "Gordie Howe",
+                "Wayne Gretzky"
+            ],
+            "correct_answer": "Wayne Gretzky",
+            "category": "Sports",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which team won the 2015-16 English Premier League?",
+            "options": [
+                "Manchester United",
+                "Liverpool",
+                "Cheslea",
+                "Leicester City"
+            ],
+            "correct_answer": "Leicester City",
+            "category": "Sports",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which two teams played in Super Bowl XLII?",
+            "options": [
+                "The Philadelphia Eagles & The New England Patriots",
+                "The New York Giants & The New England Patriots",
+                "The Green Bay Packers & The Pittsburgh Steelers",
+                "The Seattle Seahawks & The Denver Broncos"
+            ],
+            "correct_answer": "The New York Giants & The New England Patriots",
+            "category": "Sports",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which city did the former NHL team \"The Nordiques\" originiate from?",
+            "options": [
+                "Quebec City",
+                "Montreal",
+                "New York",
+                "Houston"
+            ],
+            "correct_answer": "Quebec City",
+            "category": "Sports",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+            "options": [
+                "0 - 1",
+                "16 - 0",
+                "7 - 1",
+                "3 - 4"
+            ],
+            "correct_answer": "7 - 1",
+            "category": "Sports",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which wrestler won the 2019 Men\u2019s Royal Rumble?",
+            "options": [
+                "Seth Rollins",
+                "Andrade",
+                "Braun Strowman",
+                "AJ Styles"
+            ],
+            "correct_answer": "Seth Rollins",
+            "category": "Sports",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Who won the UEFA Champions League in 2017?",
+            "options": [
+                "Juventus F.C.",
+                "Real Madrid C.F.",
+                "Atletico Madrid",
+                "AS Monaco FC"
+            ],
+            "correct_answer": "Real Madrid C.F.",
+            "category": "Sports",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?",
+            "options": [
+                "Lennox Lewis",
+                "Mike Tyson",
+                "Evander Holyfield",
+                "Roy Jones Jr."
+            ],
+            "correct_answer": "Mike Tyson",
+            "category": "Sports",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which year did Jenson Button won his first ever Formula One World Drivers' Championship?",
+            "options": [
+                "2009",
+                "2010",
+                "2006",
+                "2007"
+            ],
+            "correct_answer": "2009",
+            "category": "Sports",
+            "difficulty": "easy"
+        }
+    ],
+    "medium": [
+        {
+            "question": "The F1 season of 1994 is remembered for what tragic event?",
+            "options": [
+                "Schumacher's Ban (Britain)",
+                "Verstappen on Fire (Germany)",
+                "The Showdown (Australia)",
+                "Death of Ayrton Senna (San Marino)"
+            ],
+            "correct_answer": "Death of Ayrton Senna (San Marino)",
+            "category": "Sports",
+            "difficulty": "medium"
+        },
+        {
+            "question": "How many French Open's did Bj\u00f6rn Borg win?",
+            "options": [
+                "4",
+                "9",
+                "6",
+                "2"
+            ],
+            "correct_answer": "6",
+            "category": "Sports",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+            "options": [
+                "Porsche",
+                "Chevrolet",
+                "Toyota",
+                "Audi"
+            ],
+            "correct_answer": "Porsche",
+            "category": "Sports",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Why was The Green Monster at Fenway Park was originally built?",
+            "options": [
+                "To provide extra seating.",
+                "To prevent viewing games from outside the park.",
+                "To display advertisements.",
+                "To make getting home runs harder."
+            ],
+            "correct_answer": "To prevent viewing games from outside the park.",
+            "category": "Sports",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Who was the topscorer for England national football team?",
+            "options": [
+                "Steven Gerrard",
+                "David Beckham",
+                "Wayne Rooney",
+                "Michael Owen"
+            ],
+            "correct_answer": "Wayne Rooney",
+            "category": "Sports",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+            "options": [
+                "Bye",
+                "Beamer",
+                "Duck",
+                "Carry"
+            ],
+            "correct_answer": "Duck",
+            "category": "Sports",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+            "options": [
+                "Wimbledon",
+                "US Open",
+                "Australian Open",
+                "French Open"
+            ],
+            "correct_answer": "US Open",
+            "category": "Sports",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which basketball team has attended the most NBA grand finals?",
+            "options": [
+                "Golden State Warriors",
+                "Los Angeles Lakers",
+                "Boston Celtics",
+                "Philadelphia 76ers"
+            ],
+            "correct_answer": "Los Angeles Lakers",
+            "category": "Sports",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the oldest team in Major League Baseball?",
+            "options": [
+                "Atlanta Braves",
+                "Chicago Cubs",
+                "St. Louis Cardinals",
+                "Cincinnati Reds"
+            ],
+            "correct_answer": "Atlanta Braves",
+            "category": "Sports",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the highest belt you can get in Taekwondo?",
+            "options": [
+                "Green",
+                "White",
+                "Red",
+                "Black"
+            ],
+            "correct_answer": "Black",
+            "category": "Sports",
+            "difficulty": "medium"
+        }
+    ],
+    "hard": [
+        {
+            "question": "What is \u201cThe Sport of Kings\u201d?",
+            "options": [
+                "Fencing",
+                "Horse Racing",
+                "Chess",
+                "Jousting"
+            ],
+            "correct_answer": "Horse Racing",
+            "category": "Sports",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+            "options": [
+                "Ma Long (China)",
+                "Vladimir Samsonov (Belarus)",
+                "Zhang Jike (China)",
+                "Jun Mizutani (Japan)"
+            ],
+            "correct_answer": "Ma Long (China)",
+            "category": "Sports",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+            "options": [
+                "Soviet Union",
+                "Portugal",
+                "West Germany",
+                "Brazil"
+            ],
+            "correct_answer": "Portugal",
+            "category": "Sports",
+            "difficulty": "hard"
+        },
+        {
+            "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+            "options": [
+                "Nine",
+                "Ten",
+                "Seven",
+                "Eight"
+            ],
+            "correct_answer": "Nine",
+            "category": "Sports",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Etihad Stadium is the home stadium for which team?",
+            "options": [
+                "Blackpool",
+                "Manchester United",
+                "Arsenal",
+                "Manchester City"
+            ],
+            "correct_answer": "Manchester City",
+            "category": "Sports",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
+            "options": [
+                "Wrench",
+                "Screwdriver",
+                "Hammer",
+                "Drill"
+            ],
+            "correct_answer": "Hammer",
+            "category": "Sports",
+            "difficulty": "hard"
+        },
+        {
+            "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+            "options": [
+                "1987",
+                "2000",
+                "1991",
+                "1990"
+            ],
+            "correct_answer": "1991",
+            "category": "Sports",
+            "difficulty": "hard"
+        },
+        {
+            "question": "At which race was the 2018 F1 Drivers Championship won?",
+            "options": [
+                "Abu Dhabi",
+                "United States",
+                "Belgium",
+                "Mexico"
+            ],
+            "correct_answer": "Mexico",
+            "category": "Sports",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+            "options": [
+                "DING Ning (China)",
+                "LI Xiaoxia (China)",
+                "Song KIM (North Korea)",
+                "Ai FUKUHARA (Japan)"
+            ],
+            "correct_answer": "DING Ning (China)",
+            "category": "Sports",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+            "options": [
+                "Insigne",
+                "Barzagli",
+                "Giaccherini",
+                "Pelle"
+            ],
+            "correct_answer": "Pelle",
+            "category": "Sports",
+            "difficulty": "hard"
+        }
+    ]
+}

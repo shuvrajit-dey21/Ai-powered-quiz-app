@@ -1,0 +1,247 @@
+{
+    "easy": [],
+    "medium": [
+        {
+            "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+            "options": [
+                "MSX",
+                "FM-7",
+                "Xmillennium ",
+                "PC-9801"
+            ],
+            "correct_answer": "FM-7",
+            "category": "Technology",
+            "difficulty": "medium"
+        },
+        {
+            "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+            "options": [
+                "?:",
+                "?",
+                "??",
+                "if then"
+            ],
+            "correct_answer": "?:",
+            "category": "Technology",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which of these people was NOT a founder of Apple Inc?",
+            "options": [
+                "Jonathan Ive",
+                "Ronald Wayne",
+                "Steve Wozniak",
+                "Steve Jobs"
+            ],
+            "correct_answer": "Jonathan Ive",
+            "category": "Technology",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Generally, which component of a computer draws the most power?",
+            "options": [
+                "Power Supply",
+                "Video Card",
+                "Hard Drive",
+                "Processor"
+            ],
+            "correct_answer": "Video Card",
+            "category": "Technology",
+            "difficulty": "medium"
+        },
+        {
+            "question": "How fast is USB 3.1 Gen 2 theoretically?",
+            "options": [
+                "8 Gb/s",
+                "10 Gb/s",
+                "5 Gb/s",
+                "1 Gb/s"
+            ],
+            "correct_answer": "10 Gb/s",
+            "category": "Technology",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What does RAID stand for?",
+            "options": [
+                "Rapid Access for Indexed Devices",
+                "Redundant Array of Independent Disks",
+                "Range of Applications with Identical Designs",
+                "Randomized Abstract Identification Description"
+            ],
+            "correct_answer": "Redundant Array of Independent Disks",
+            "category": "Technology",
+            "difficulty": "medium"
+        },
+        {
+            "question": "When was the programming language \"C#\" released?",
+            "options": [
+                "1999",
+                "1998",
+                "2001",
+                "2000"
+            ],
+            "correct_answer": "2000",
+            "category": "Technology",
+            "difficulty": "medium"
+        },
+        {
+            "question": "On which computer hardware device is the BIOS chip located?",
+            "options": [
+                "Central Processing Unit",
+                "Graphics Processing Unit",
+                "Hard Disk Drive",
+                "Motherboard"
+            ],
+            "correct_answer": "Motherboard",
+            "category": "Technology",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What year was the first iPhone released?",
+            "options": [
+                "2007",
+                "2005",
+                "2009",
+                "2010"
+            ],
+            "correct_answer": "2007",
+            "category": "Technology",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which programming language was created by Guido van Rossum?",
+            "options": [
+                "Python",
+                "Java",
+                "C++",
+                "Ruby"
+            ],
+            "correct_answer": "Python",
+            "category": "Technology",
+            "difficulty": "medium"
+        }
+    ],
+    "hard": [
+        {
+            "question": "How many Hz does the video standard PAL support?",
+            "options": [
+                "59",
+                "60",
+                "25",
+                "50"
+            ],
+            "correct_answer": "50",
+            "category": "Technology",
+            "difficulty": "hard"
+        },
+        {
+            "question": "The acronym \"RIP\" stands for which of these?",
+            "options": [
+                "Runtime Instance Processes",
+                "Regular Interval Processes",
+                "Routine Inspection Protocol",
+                "Routing Information Protocol"
+            ],
+            "correct_answer": "Routing Information Protocol",
+            "category": "Technology",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Who is the founder of Palantir?",
+            "options": [
+                "Jack Dorsey",
+                "Marc Benioff",
+                "Mark Zuckerberg",
+                "Peter Thiel"
+            ],
+            "correct_answer": "Peter Thiel",
+            "category": "Technology",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which data structure does FILO apply to?",
+            "options": [
+                "Tree",
+                "Queue",
+                "Heap",
+                "Stack"
+            ],
+            "correct_answer": "Stack",
+            "category": "Technology",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+            "options": [
+                "Secret sharing scheme",
+                "Asymmetric encryption",
+                "Stream cipher",
+                "Hashing algorithm"
+            ],
+            "correct_answer": "Secret sharing scheme",
+            "category": "Technology",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which of these is not a layer in the OSI model for data communications?",
+            "options": [
+                "Transport Layer",
+                "Connection Layer",
+                "Physical Layer",
+                "Application Layer"
+            ],
+            "correct_answer": "Connection Layer",
+            "category": "Technology",
+            "difficulty": "hard"
+        },
+        {
+            "question": "The Harvard architecture for micro-controllers added which additional bus?",
+            "options": [
+                "Data",
+                "Instruction",
+                "Address",
+                "Control"
+            ],
+            "correct_answer": "Instruction",
+            "category": "Technology",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+            "options": [
+                "Saturn",
+                "Enceladus",
+                "Neptune",
+                "Pollux"
+            ],
+            "correct_answer": "Neptune",
+            "category": "Technology",
+            "difficulty": "hard"
+        },
+        {
+            "question": "America Online (AOL) started out as which of these online service providers?",
+            "options": [
+                "Prodigy",
+                "CompuServe",
+                "Quantum Link",
+                "GEnie"
+            ],
+            "correct_answer": "Quantum Link",
+            "category": "Technology",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+            "options": [
+                "Game Maker",
+                "Stencyl",
+                "Construct",
+                "Torque 2D"
+            ],
+            "correct_answer": "Game Maker",
+            "category": "Technology",
+            "difficulty": "hard"
+        }
+    ]
+}

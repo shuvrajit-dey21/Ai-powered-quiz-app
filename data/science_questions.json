@@ -1,0 +1,524 @@
+{
+    "easy": [
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": [
+                "O2",
+                "CO2",
+                "H2O",
+                "NaCl"
+            ],
+            "correct_answer": "H2O",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": [
+                "Mars",
+                "Jupiter",
+                "Mercury",
+                "Venus"
+            ],
+            "correct_answer": "Mars",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the closest star to Earth?",
+            "options": [
+                "Sun",
+                "Sirius",
+                "Proxima Centauri",
+                "Alpha Centauri"
+            ],
+            "correct_answer": "Sun",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What does DNA stand for?",
+            "options": [
+                "Deoxyribogenetic Acid",
+                "Deoxyribogenetic Atoms",
+                "Detoxic Acid",
+                "Deoxyribonucleic Acid"
+            ],
+            "correct_answer": "Deoxyribonucleic Acid",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the first element on the periodic table?",
+            "options": [
+                "Hydrogen",
+                "Lithium",
+                "Helium",
+                "Oxygen"
+            ],
+            "correct_answer": "Hydrogen",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which of the following is not one of the groups on the periodic table?",
+            "options": [
+                "Noble Gases",
+                "Alkali Metals",
+                "Halogens",
+                "Fluorines"
+            ],
+            "correct_answer": "Fluorines",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What does the letter 'S' stand for in 'NASA'?",
+            "options": [
+                "Society",
+                "Star",
+                "Space",
+                "Science"
+            ],
+            "correct_answer": "Space",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which element has the highest melting point?",
+            "options": [
+                "Osmium",
+                "Platinum",
+                "Tungsten",
+                "Carbon"
+            ],
+            "correct_answer": "Carbon",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the atomic mass of Carbon?",
+            "options": [
+                "14",
+                "12",
+                "16",
+                "10"
+            ],
+            "correct_answer": "12",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What name is given to all baby marsupials?",
+            "options": [
+                "Pup",
+                "Cub",
+                "Calf",
+                "Joey"
+            ],
+            "correct_answer": "Joey",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What lies at the center of our galaxy?",
+            "options": [
+                "A quasar",
+                "A wormhole",
+                "A black hole",
+                "A supernova"
+            ],
+            "correct_answer": "A black hole",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which Apollo mission was the first one to land on the Moon?",
+            "options": [
+                "Apollo 10",
+                "Apollo 9",
+                "Apollo 13",
+                "Apollo 11"
+            ],
+            "correct_answer": "Apollo 11",
+            "category": "Science",
+            "difficulty": "easy"
+        },
+        {
+            "question": "How many bones are in the human body?",
+            "options": [
+                "209",
+                "203",
+                "200",
+                "206"
+            ],
+            "correct_answer": "206",
+            "category": "Science",
+            "difficulty": "easy"
+        }
+    ],
+    "medium": [
+        {
+            "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+            "options": [
+                "Blind Sight",
+                "Split-Brain",
+                "Flip-Flop Syndrome",
+                "Cognitive Dissonance"
+            ],
+            "correct_answer": "Cognitive Dissonance",
+            "category": "Science",
+            "difficulty": "medium"
+        },
+        {
+            "question": "A positron is an antiparticle of a what?",
+            "options": [
+                "Neutron",
+                "Photon",
+                "Proton",
+                "Electron"
+            ],
+            "correct_answer": "Electron",
+            "category": "Science",
+            "difficulty": "medium"
+        },
+        {
+            "question": "The human right lung has how many lobes?",
+            "options": [
+                "1",
+                "3",
+                "4",
+                "2"
+            ],
+            "correct_answer": "3",
+            "category": "Science",
+            "difficulty": "medium"
+        },
+        {
+            "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+            "options": [
+                "Beryllium",
+                "Mercury",
+                "Gallium",
+                "Caesium"
+            ],
+            "correct_answer": "Beryllium",
+            "category": "Science",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the half-life of Uranium-235?",
+            "options": [
+                "4,300,400,000 years",
+                "Uranium-235 is a stable isotope",
+                "1,260,900,000 years",
+                "703,800,000 years"
+            ],
+            "correct_answer": "703,800,000 years",
+            "category": "Science",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the study of the cells and tissues of plants and animals?",
+            "options": [
+                "Histology",
+                "Anatomy",
+                "Microbiology",
+                "Biochemistry"
+            ],
+            "correct_answer": "Histology",
+            "category": "Science",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which of these is NOT a part of the structure of a typical neuron?",
+            "options": [
+                "Islets of Langerhans",
+                "Schwann cell",
+                "Node of Ranvier",
+                "Myelin sheath"
+            ],
+            "correct_answer": "Islets of Langerhans",
+            "category": "Science",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Where did the dog breed \"Chihuahua\" originate?",
+            "options": [
+                "Spain",
+                "Russia",
+                "Mexico",
+                "France"
+            ],
+            "correct_answer": "Mexico",
+            "category": "Science",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the unit of electrical capacitance?",
+            "options": [
+                "Henry",
+                "Farad",
+                "Watt",
+                "Gauss"
+            ],
+            "correct_answer": "Farad",
+            "category": "Science",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the Linnean name of the domestic apple tree?",
+            "options": [
+                "Appelus delectica",
+                "Malus americana",
+                "Malus pumila",
+                "Pomus domestica"
+            ],
+            "correct_answer": "Malus pumila",
+            "category": "Science",
+            "difficulty": "medium"
+        }
+    ],
+    "hard": [
+        {
+            "question": "The word \"science\" stems from the word \"scire\" meaning what?",
+            "options": [
+                "To know",
+                "To live",
+                "To count",
+                "To measure"
+            ],
+            "correct_answer": "To know",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which constellation contains the center of the Milky Way?",
+            "options": [
+                "Scorpius",
+                "Capricornus",
+                "Sagittarius",
+                "Ophiuchus"
+            ],
+            "correct_answer": "Sagittarius",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Where in the human body is the Pineal Gland located?",
+            "options": [
+                "Groin",
+                "Chest",
+                "Throat",
+                "Brain"
+            ],
+            "correct_answer": "Brain",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What causes the sound of a heartbeat?",
+            "options": [
+                "Blood exiting the heart",
+                "Contraction of the heart chambers",
+                "Relaxation of the heart chambers",
+                "Closure of the heart valves"
+            ],
+            "correct_answer": "Closure of the heart valves",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which of the following is the term for \"surgical complications resulting from surgical sponges left inside the patient's body?",
+            "options": [
+                "Gossypiboma",
+                "Meupareunia",
+                "Gongoozler",
+                "Jentacular"
+            ],
+            "correct_answer": "Gossypiboma",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "The Western Lowland Gorilla is scientifically know as?",
+            "options": [
+                "Gorilla Beringei Beringei",
+                "Gorilla Gorilla Diehli",
+                "Gorilla Gorilla Gorilla",
+                "Gorilla Beringei Graueri"
+            ],
+            "correct_answer": "Gorilla Gorilla Gorilla",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is the most potent toxin known?",
+            "options": [
+                "Cyanide",
+                "Botulinum toxin",
+                "Ricin",
+                "Asbestos"
+            ],
+            "correct_answer": "Botulinum toxin",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+            "options": [
+                "McGurck Effect",
+                "Shepard Tone",
+                "Fransen Effect",
+                "Glissandro Illusion"
+            ],
+            "correct_answer": "Shepard Tone",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which of the following is a major muscle of the back?",
+            "options": [
+                "Trapezius",
+                "Triquetrum",
+                "Trapezium",
+                "Trapezoid"
+            ],
+            "correct_answer": "Trapezius",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+            "options": [
+                "Down Syndrome",
+                "Klinefelter's Syndrome",
+                "Jacob's Syndrome",
+                "Turner's Syndrome"
+            ],
+            "correct_answer": "Jacob's Syndrome",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What element on the periodic table has 92 electrons?",
+            "options": [
+                "Uranium",
+                "Iron",
+                "Sulfur",
+                "Hydrogen"
+            ],
+            "correct_answer": "Uranium",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which of these chemical compounds is NOT found in gastric acid?",
+            "options": [
+                "Sodium chloride",
+                "Potassium chloride",
+                "Hydrochloric acid",
+                "Sulfuric acid"
+            ],
+            "correct_answer": "Sulfuric acid",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What nucleotide pairs with guanine?",
+            "options": [
+                "Uracil",
+                "Adenine",
+                "Thymine",
+                "Cytosine"
+            ],
+            "correct_answer": "Cytosine",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is the unit of electrical inductance?",
+            "options": [
+                "Mho",
+                "Weber",
+                "Henry",
+                "Coulomb"
+            ],
+            "correct_answer": "Henry",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is considered the rarest form of color blindness?",
+            "options": [
+                "Blue",
+                "Red",
+                "Green",
+                "Purple"
+            ],
+            "correct_answer": "Blue",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
+            "options": [
+                "Sneeze",
+                "Yawn",
+                "Hiccup",
+                "Cough"
+            ],
+            "correct_answer": "Sneeze",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+            "options": [
+                "Ethanol",
+                "Urea",
+                "Formaldehyde",
+                "Propane"
+            ],
+            "correct_answer": "Urea",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+            "options": [
+                "Wick's Theorem",
+                "Carnot's Theorem",
+                "Noether's Theorem",
+                "Bell's Theorem"
+            ],
+            "correct_answer": "Noether's Theorem",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Muscle fiber is constructed of bundles small long organelles called what?",
+            "options": [
+                "Epimysium",
+                "Myofibrils",
+                "Myofiaments",
+                "Myocardium"
+            ],
+            "correct_answer": "Myofibrils",
+            "category": "Science",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+            "options": [
+                "Jacob's Syndrome",
+                "Turner's Syndrome",
+                "Klinefelter's Syndrome",
+                "Down Syndrome"
+            ],
+            "correct_answer": "Jacob's Syndrome",
+            "category": "Science",
+            "difficulty": "hard"
+        }
+    ]
+}

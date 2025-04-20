@@ -1,0 +1,3038 @@
+[
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "O2",
+            "CO2",
+            "H2O",
+            "NaCl"
+        ],
+        "correct_answer": "H2O",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Mercury",
+            "Venus"
+        ],
+        "correct_answer": "Mars",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the closest star to Earth?",
+        "options": [
+            "Sun",
+            "Sirius",
+            "Proxima Centauri",
+            "Alpha Centauri"
+        ],
+        "correct_answer": "Sun",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Irish musician Hozier released a music track in 2013 titled, \"Take Me to ______\"",
+        "options": [
+            "Mosque",
+            "Synagogue",
+            "Church",
+            "Temple"
+        ],
+        "correct_answer": "Church",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What date is referenced in the 1971 song \"September\" by Earth, Wind & Fire?",
+        "options": [
+            "21st of September",
+            "24th of September",
+            "26th of September",
+            "23rd of September"
+        ],
+        "correct_answer": "21st of September",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who is the lead singer of Bastille?",
+        "options": [
+            "Kyle Simmons",
+            "Chris Wood",
+            "Dan Smith",
+            "Will Farquarson"
+        ],
+        "correct_answer": "Dan Smith",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who had a 1973 hit with the song 'Hocus Pocus'?",
+        "options": [
+            "Pilot",
+            "AC/DC",
+            "Rush",
+            "Focus"
+        ],
+        "correct_answer": "Focus",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "When was the 3rd album \"Notes from the Underground\" of the band \"Hollywood Undead\" released?",
+        "options": [
+            "2009",
+            "2014",
+            "2013",
+            "2011"
+        ],
+        "correct_answer": "2013",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "May 16th of every year is known as __________ Day, named after a punk band prominent in the 1990s.",
+        "options": [
+            "Goldfinger",
+            "Lit",
+            "Lagwagon",
+            "Less Than Jake"
+        ],
+        "correct_answer": "Lagwagon",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the 2016 studio album by the French electronic music duo Justice?",
+        "options": [
+            "Safe and Sound",
+            "Randy",
+            "Woman",
+            "Pleasure"
+        ],
+        "correct_answer": "Woman",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the relationship between the band members of American rock band King of Leon?",
+        "options": [
+            "Former classmates",
+            "Fraternity house members",
+            "Brothers & cousins",
+            "Childhood friends"
+        ],
+        "correct_answer": "Brothers & cousins",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which of these is NOT a name of an album released by American rapper Pitbull?",
+        "options": [
+            "Welcome to Miami",
+            "Global Warming",
+            "Dale",
+            "Armando"
+        ],
+        "correct_answer": "Welcome to Miami",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which Beatle led the way across the zebra crossing on the Abbey Road album cover?",
+        "options": [
+            "John",
+            "Ringo",
+            "Paul",
+            "George"
+        ],
+        "correct_answer": "John",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who won the 2017 Formula One World Drivers' Championship?",
+        "options": [
+            "Nico Rosberg",
+            "Max Verstappen",
+            "Lewis Hamilton",
+            "Sebastian Vettel"
+        ],
+        "correct_answer": "Lewis Hamilton",
+        "category": "Sports",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which player holds the NHL record of 2,857 points?",
+        "options": [
+            "Mario Lemieux ",
+            "Sidney Crosby",
+            "Gordie Howe",
+            "Wayne Gretzky"
+        ],
+        "correct_answer": "Wayne Gretzky",
+        "category": "Sports",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which team won the 2015-16 English Premier League?",
+        "options": [
+            "Manchester United",
+            "Liverpool",
+            "Cheslea",
+            "Leicester City"
+        ],
+        "correct_answer": "Leicester City",
+        "category": "Sports",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which two teams played in Super Bowl XLII?",
+        "options": [
+            "The Philadelphia Eagles & The New England Patriots",
+            "The New York Giants & The New England Patriots",
+            "The Green Bay Packers & The Pittsburgh Steelers",
+            "The Seattle Seahawks & The Denver Broncos"
+        ],
+        "correct_answer": "The New York Giants & The New England Patriots",
+        "category": "Sports",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which city did the former NHL team \"The Nordiques\" originiate from?",
+        "options": [
+            "Quebec City",
+            "Montreal",
+            "New York",
+            "Houston"
+        ],
+        "correct_answer": "Quebec City",
+        "category": "Sports",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+        "options": [
+            "0 - 1",
+            "16 - 0",
+            "7 - 1",
+            "3 - 4"
+        ],
+        "correct_answer": "7 - 1",
+        "category": "Sports",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which wrestler won the 2019 Men\u2019s Royal Rumble?",
+        "options": [
+            "Seth Rollins",
+            "Andrade",
+            "Braun Strowman",
+            "AJ Styles"
+        ],
+        "correct_answer": "Seth Rollins",
+        "category": "Sports",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who won the UEFA Champions League in 2017?",
+        "options": [
+            "Juventus F.C.",
+            "Real Madrid C.F.",
+            "Atletico Madrid",
+            "AS Monaco FC"
+        ],
+        "correct_answer": "Real Madrid C.F.",
+        "category": "Sports",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?",
+        "options": [
+            "Lennox Lewis",
+            "Mike Tyson",
+            "Evander Holyfield",
+            "Roy Jones Jr."
+        ],
+        "correct_answer": "Mike Tyson",
+        "category": "Sports",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which year did Jenson Button won his first ever Formula One World Drivers' Championship?",
+        "options": [
+            "2009",
+            "2010",
+            "2006",
+            "2007"
+        ],
+        "correct_answer": "2009",
+        "category": "Sports",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the Finnish word for \"Finland\"?",
+        "options": [
+            "Magyarorsz\u00e1g",
+            "Sverige",
+            "Eesti",
+            "Suomi"
+        ],
+        "correct_answer": "Suomi",
+        "category": "Geography",
+        "difficulty": "hard"
+    },
+    {
+        "question": "The Hunua Ranges is located in...",
+        "options": [
+            "Nepal",
+            "China",
+            "Mexico",
+            "New Zealand"
+        ],
+        "correct_answer": "New Zealand",
+        "category": "Geography",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of these is NOT a city in India?",
+        "options": [
+            "Ahmedabad",
+            "Ghaziabad",
+            "Islamabad",
+            "Hyderabad"
+        ],
+        "correct_answer": "Islamabad",
+        "category": "Geography",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What year is on the flag of the US state Wisconsin?",
+        "options": [
+            "1848",
+            "1634",
+            "1783",
+            "1901"
+        ],
+        "correct_answer": "1848",
+        "category": "Geography",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the tallest mountain in Canada?",
+        "options": [
+            "Blue Mountain",
+            "Whistler Mountain",
+            "Mount Logan",
+            "Mont Tremblant"
+        ],
+        "correct_answer": "Mount Logan",
+        "category": "Geography",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the largest freshwater lake by volume?",
+        "options": [
+            "Lake Baikal",
+            "Lake Superior",
+            "Lake Michigan",
+            "Lake Huron"
+        ],
+        "correct_answer": "Lake Baikal",
+        "category": "Geography",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In which city, is the Big Nickel located in Canada?",
+        "options": [
+            "Calgary, Alberta",
+            "Halifax, Nova Scotia ",
+            "Sudbury, Ontario",
+            "Victoria, British Columbia"
+        ],
+        "correct_answer": "Sudbury, Ontario",
+        "category": "Geography",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Llanfair\u00adpwllgwyngyll\u00adgogery\u00adchwyrn\u00addrobwll\u00adllan\u00adtysilio\u00adgogo\u00adgoch is located on which Welsh island?",
+        "options": [
+            "Barry",
+            "Caldey",
+            "Anglesey",
+            "Bardsey"
+        ],
+        "correct_answer": "Anglesey",
+        "category": "Geography",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of these cities has a 4\u00b0 East longitude. ",
+        "options": [
+            "Amsterdam",
+            "Hong Kong",
+            "Toronto",
+            "Rio de Janero"
+        ],
+        "correct_answer": "Amsterdam",
+        "category": "Geography",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the land connecting North America and South America?",
+        "options": [
+            "Australasia",
+            "Isthmus of Panama",
+            "Urals",
+            "Isthmus of Suez"
+        ],
+        "correct_answer": "Isthmus of Panama",
+        "category": "Geography",
+        "difficulty": "hard"
+    },
+    {
+        "question": "How many Hz does the video standard PAL support?",
+        "options": [
+            "59",
+            "60",
+            "25",
+            "50"
+        ],
+        "correct_answer": "50",
+        "category": "Technology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "The acronym \"RIP\" stands for which of these?",
+        "options": [
+            "Runtime Instance Processes",
+            "Regular Interval Processes",
+            "Routine Inspection Protocol",
+            "Routing Information Protocol"
+        ],
+        "correct_answer": "Routing Information Protocol",
+        "category": "Technology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who is the founder of Palantir?",
+        "options": [
+            "Jack Dorsey",
+            "Marc Benioff",
+            "Mark Zuckerberg",
+            "Peter Thiel"
+        ],
+        "correct_answer": "Peter Thiel",
+        "category": "Technology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which data structure does FILO apply to?",
+        "options": [
+            "Tree",
+            "Queue",
+            "Heap",
+            "Stack"
+        ],
+        "correct_answer": "Stack",
+        "category": "Technology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+        "options": [
+            "Secret sharing scheme",
+            "Asymmetric encryption",
+            "Stream cipher",
+            "Hashing algorithm"
+        ],
+        "correct_answer": "Secret sharing scheme",
+        "category": "Technology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of these is not a layer in the OSI model for data communications?",
+        "options": [
+            "Transport Layer",
+            "Connection Layer",
+            "Physical Layer",
+            "Application Layer"
+        ],
+        "correct_answer": "Connection Layer",
+        "category": "Technology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "The Harvard architecture for micro-controllers added which additional bus?",
+        "options": [
+            "Data",
+            "Instruction",
+            "Address",
+            "Control"
+        ],
+        "correct_answer": "Instruction",
+        "category": "Technology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+        "options": [
+            "Saturn",
+            "Enceladus",
+            "Neptune",
+            "Pollux"
+        ],
+        "correct_answer": "Neptune",
+        "category": "Technology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "America Online (AOL) started out as which of these online service providers?",
+        "options": [
+            "Prodigy",
+            "CompuServe",
+            "Quantum Link",
+            "GEnie"
+        ],
+        "correct_answer": "Quantum Link",
+        "category": "Technology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+        "options": [
+            "Game Maker",
+            "Stencyl",
+            "Construct",
+            "Torque 2D"
+        ],
+        "correct_answer": "Game Maker",
+        "category": "Technology",
+        "difficulty": "hard"
+    },
+    {
+        "question": "The F1 season of 1994 is remembered for what tragic event?",
+        "options": [
+            "Schumacher's Ban (Britain)",
+            "Verstappen on Fire (Germany)",
+            "The Showdown (Australia)",
+            "Death of Ayrton Senna (San Marino)"
+        ],
+        "correct_answer": "Death of Ayrton Senna (San Marino)",
+        "category": "Sports",
+        "difficulty": "medium"
+    },
+    {
+        "question": "How many French Open's did Bj\u00f6rn Borg win?",
+        "options": [
+            "4",
+            "9",
+            "6",
+            "2"
+        ],
+        "correct_answer": "6",
+        "category": "Sports",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+        "options": [
+            "Porsche",
+            "Chevrolet",
+            "Toyota",
+            "Audi"
+        ],
+        "correct_answer": "Porsche",
+        "category": "Sports",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Why was The Green Monster at Fenway Park was originally built?",
+        "options": [
+            "To provide extra seating.",
+            "To prevent viewing games from outside the park.",
+            "To display advertisements.",
+            "To make getting home runs harder."
+        ],
+        "correct_answer": "To prevent viewing games from outside the park.",
+        "category": "Sports",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who was the topscorer for England national football team?",
+        "options": [
+            "Steven Gerrard",
+            "David Beckham",
+            "Wayne Rooney",
+            "Michael Owen"
+        ],
+        "correct_answer": "Wayne Rooney",
+        "category": "Sports",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+        "options": [
+            "Bye",
+            "Beamer",
+            "Duck",
+            "Carry"
+        ],
+        "correct_answer": "Duck",
+        "category": "Sports",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+        "options": [
+            "Wimbledon",
+            "US Open",
+            "Australian Open",
+            "French Open"
+        ],
+        "correct_answer": "US Open",
+        "category": "Sports",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which basketball team has attended the most NBA grand finals?",
+        "options": [
+            "Golden State Warriors",
+            "Los Angeles Lakers",
+            "Boston Celtics",
+            "Philadelphia 76ers"
+        ],
+        "correct_answer": "Los Angeles Lakers",
+        "category": "Sports",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the oldest team in Major League Baseball?",
+        "options": [
+            "Atlanta Braves",
+            "Chicago Cubs",
+            "St. Louis Cardinals",
+            "Cincinnati Reds"
+        ],
+        "correct_answer": "Atlanta Braves",
+        "category": "Sports",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the highest belt you can get in Taekwondo?",
+        "options": [
+            "Green",
+            "White",
+            "Red",
+            "Black"
+        ],
+        "correct_answer": "Black",
+        "category": "Sports",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the last colony the UK ceded marking the end of the British Empire?",
+        "options": [
+            "Australia",
+            "Hong Kong",
+            "India",
+            "Ireland"
+        ],
+        "correct_answer": "Hong Kong",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
+        "options": [
+            "Charles V",
+            "Francis Joseph",
+            "Philip V",
+            "Philip II"
+        ],
+        "correct_answer": "Philip V",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which King of England was faced with the Peasants' Revolt in 1381?",
+        "options": [
+            "Edward II",
+            "Edward III",
+            "Henry IV",
+            "Richard II"
+        ],
+        "correct_answer": "Richard II",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "When was Adolf Hitler appointed as Chancellor of Germany?",
+        "options": [
+            "September 1, 1939",
+            "January 30, 1933",
+            "February 27, 1933",
+            "October 6, 1939"
+        ],
+        "correct_answer": "January 30, 1933",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the first man to travel into outer space twice?",
+        "options": [
+            "Yuri Gagarin",
+            "Vladimir Komarov",
+            "Charles Conrad",
+            "Gus Grissom"
+        ],
+        "correct_answer": "Gus Grissom",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which English king was married to Eleanor of Aquitaine?",
+        "options": [
+            "Richard I",
+            "Henry II",
+            "Henry I",
+            "Henry V"
+        ],
+        "correct_answer": "Henry II",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In the Seven Wonders of the World, which wonder is the only that has survived to this day?",
+        "options": [
+            "Statue of Zeus at Olympia",
+            "Colossus of Rhodes",
+            "Great Pyramid of Giza",
+            "Lighthouse of Alexandria"
+        ],
+        "correct_answer": "Great Pyramid of Giza",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name of the Boeing B-29 that dropped the 'Little Boy' atomic bomb on Hiroshima?",
+        "options": [
+            "Full House",
+            "Enola Gay",
+            "The Great Artiste",
+            "Necessary Evil"
+        ],
+        "correct_answer": "Enola Gay",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What was the aim of the \"Umbrella Revolution\" in Hong Kong in 2014?",
+        "options": [
+            "Lower taxes",
+            "Genuine universal suffrage",
+            "Gaining Independence",
+            "Go back under British Rule"
+        ],
+        "correct_answer": "Genuine universal suffrage",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?",
+        "options": [
+            "Navarre",
+            "Galicia",
+            "Le\u00f3n",
+            "Aragon"
+        ],
+        "correct_answer": "Aragon",
+        "category": "History",
+        "difficulty": "hard"
+    },
+    {
+        "question": "How many countries does the United States share a land border with?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "correct_answer": "2",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Harvard University is located in which city?",
+        "options": [
+            "Cambridge",
+            "New York",
+            "Washington D.C.",
+            "Providence"
+        ],
+        "correct_answer": "Cambridge",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the official language of Costa Rica?",
+        "options": [
+            "English",
+            "Creole",
+            "Portuguese",
+            "Spanish"
+        ],
+        "correct_answer": "Spanish",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the capital of India?",
+        "options": [
+            "Montreal",
+            "New Delhi",
+            "Beijing",
+            "Tithi"
+        ],
+        "correct_answer": "New Delhi",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "The body of the Egyptian Sphinx was based on which animal?",
+        "options": [
+            "Lion",
+            "Bull",
+            "Dog",
+            "Horse"
+        ],
+        "correct_answer": "Lion",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": [
+            "Monaco",
+            "Vatican City",
+            "Malta",
+            "Maldives"
+        ],
+        "correct_answer": "Vatican City",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What country is the second largest in the world by area?",
+        "options": [
+            "Russia",
+            "United States of America",
+            "China",
+            "Canada"
+        ],
+        "correct_answer": "Canada",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of the following Japanese islands is the biggest?",
+        "options": [
+            "Kyushu",
+            "Honshu",
+            "Hokkaido",
+            "Shikoku"
+        ],
+        "correct_answer": "Honshu",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which ocean borders the west coast of the United States?",
+        "options": [
+            "Arctic",
+            "Indian",
+            "Pacific",
+            "Atlantic"
+        ],
+        "correct_answer": "Pacific",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+        "options": [
+            "United Arab Emirates",
+            "Kuwait",
+            "Qatar",
+            "Jordan"
+        ],
+        "correct_answer": "Qatar",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What three movies, in order from release date, make up the \"Dollars Trilogy\"?",
+        "options": [
+            "\"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\", \"A Fistful of Dollars\"",
+            "\"For a Few Dollars More\", \"A Fistful of Dollars\", \"The Good, the Bad, and the Ugly\"",
+            "\"A Fistful of Dollars\", \"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\"",
+            "\"The Good, the Bad, and the Ugly\", \"For A Few Dollars More\", \"A Fistful of Dollars\""
+        ],
+        "correct_answer": "\"A Fistful of Dollars\", \"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\"",
+        "category": "Movies",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What was the name of the planet in \"Aliens\"?",
+        "options": [
+            "Weyland Yutani Corporation Base",
+            "DI-621",
+            "LV-426",
+            "FR-838"
+        ],
+        "correct_answer": "LV-426",
+        "category": "Movies",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+        "options": [
+            "The Day The Earth Stood Still",
+            "It Came from Outer Space",
+            "The Man from Planet X",
+            "Plan 9 from Outer Space"
+        ],
+        "correct_answer": "Plan 9 from Outer Space",
+        "category": "Movies",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What was Humphrey Bogart's middle name?",
+        "options": [
+            "DeForest",
+            "DeWinter",
+            "Bryce",
+            "Steven"
+        ],
+        "correct_answer": "DeForest",
+        "category": "Movies",
+        "difficulty": "hard"
+    },
+    {
+        "question": "How old was Laurence Fishburne when Francis Ford Coppola cast him in Apocalypse Now (1979)? ",
+        "options": [
+            "18",
+            "14",
+            "20",
+            "16"
+        ],
+        "correct_answer": "14",
+        "category": "Movies",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What was the last Marx Brothers film to feature Zeppo?",
+        "options": [
+            "Duck Soup",
+            "A Day at the Races",
+            "Monkey Business",
+            "A Night at the Opera"
+        ],
+        "correct_answer": "Duck Soup",
+        "category": "Movies",
+        "difficulty": "hard"
+    },
+    {
+        "question": "According to \"Star Wars\" lore, which planet does Obi-Wan Kenobi come from?",
+        "options": [
+            "Stewjon",
+            "Alderaan",
+            "Tatooine",
+            "Naboo"
+        ],
+        "correct_answer": "Stewjon",
+        "category": "Movies",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In the 1964 film \"Zulu\", what song does the British Army company sing before the final battle?",
+        "options": [
+            "Scotland the Brave",
+            "Colonel Bogey March",
+            "The British Grenadiers",
+            "Men of Harlech"
+        ],
+        "correct_answer": "Men of Harlech",
+        "category": "Movies",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In the \"Jurassic Park\" universe, when did \"Jurassic Park: San Diego\" begin construction?",
+        "options": [
+            "1993",
+            "1985",
+            "1986",
+            "1988"
+        ],
+        "correct_answer": "1985",
+        "category": "Movies",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In the 1974 Christmas flick \"The Year Without a Santa Claus,\" what are the names of the two elves who help Mrs. Claus save Christmas?",
+        "options": [
+            "Holly & Jolly",
+            "Buddy & Bobby",
+            "Snowflake & Icicle",
+            "Jingle & Jangle"
+        ],
+        "correct_answer": "Jingle & Jangle",
+        "category": "Movies",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In Alice in Wonderland, what is the name of Alice's kitten?",
+        "options": [
+            "Oscar",
+            "Heath",
+            "Dinah",
+            "Smokey"
+        ],
+        "correct_answer": "Dinah",
+        "category": "Literature",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who wrote the \"A Song of Ice And Fire\" fantasy novel series?",
+        "options": [
+            "George R. R. Martin",
+            "George Lucas",
+            "George Eliot",
+            "George Orwell"
+        ],
+        "correct_answer": "George R. R. Martin",
+        "category": "Literature",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of Eragon's dragon in \"Eragon\"?",
+        "options": [
+            "Thorn",
+            "Glaedr",
+            "Saphira",
+            "Arya"
+        ],
+        "correct_answer": "Saphira",
+        "category": "Literature",
+        "difficulty": "medium"
+    },
+    {
+        "question": "In the novel \"Lord of the Rings\", how many rings of power were given to the race of man?",
+        "options": [
+            "5",
+            "9",
+            "11",
+            "13"
+        ],
+        "correct_answer": "9",
+        "category": "Literature",
+        "difficulty": "medium"
+    },
+    {
+        "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+        "options": [
+            "The Thing",
+            "Frankenstein's monster",
+            "The Invisible Man",
+            "Dracula"
+        ],
+        "correct_answer": "Frankenstein's monster",
+        "category": "Literature",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+        "options": [
+            "A Hat in Time",
+            "The Dresden Files",
+            "The Cinder Spires",
+            "My Life as a Teenage Wizard"
+        ],
+        "correct_answer": "The Dresden Files",
+        "category": "Literature",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+        "options": [
+            "F. Scott Fitzgerald",
+            "William Faulkner",
+            "John Steinbeck",
+            "Ernest Hemingway"
+        ],
+        "correct_answer": "John Steinbeck",
+        "category": "Literature",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who is the author of the series \"Malazan Book of the Fallen\"?",
+        "options": [
+            "Ian Cameron Esslemont",
+            "Steven Erikson",
+            "George R. R. Martin",
+            "J. R. R. Tolkien"
+        ],
+        "correct_answer": "Steven Erikson",
+        "category": "Literature",
+        "difficulty": "medium"
+    },
+    {
+        "question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+        "options": [
+            "Liu Bei",
+            "Guan Yu",
+            "Zhang Fei",
+            "Zhao Yun"
+        ],
+        "correct_answer": "Zhao Yun",
+        "category": "Literature",
+        "difficulty": "medium"
+    },
+    {
+        "question": "According to The Hitchhiker's Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+        "options": [
+            "Loving everyone around you",
+            "42",
+            "Chocolate",
+            "Death"
+        ],
+        "correct_answer": "42",
+        "category": "Literature",
+        "difficulty": "medium"
+    },
+    {
+        "question": "On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?",
+        "options": [
+            "USS Hornet",
+            "USS Lexington",
+            "USS Saratoga",
+            "USS Enterprise"
+        ],
+        "correct_answer": "USS Hornet",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+        "options": [
+            "Commerce",
+            "Californian",
+            "Cristol",
+            "Carpathia"
+        ],
+        "correct_answer": "Californian",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the oldest US state?",
+        "options": [
+            "Rhode Island",
+            "Maine",
+            "Virginia",
+            "Delaware"
+        ],
+        "correct_answer": "Delaware",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "One of the deadliest pandemics, the \"Spanish Flu\", killed off what percentage of the human world population at the time?",
+        "options": [
+            "1 to 3 percent",
+            "6 to 10 percent",
+            "less than 1 percent",
+            "3 to 6 percent"
+        ],
+        "correct_answer": "3 to 6 percent",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "The fraudelent doctor John R. Brinkley acummulated great fame and wealth in the early 1900s offering what service?",
+        "options": [
+            "Turkey breast implants",
+            "Pig blood transfusion",
+            "Goat testicles transplant",
+            "Cow liver transplant"
+        ],
+        "correct_answer": "Goat testicles transplant",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "The seed drill was invented by which British inventor?",
+        "options": [
+            "Jethro Tull",
+            "Charles Babbage",
+            "J.J Thomson",
+            "Isaac Newton"
+        ],
+        "correct_answer": "Jethro Tull",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "When did construction of the Suez Canal finish?",
+        "options": [
+            "1850",
+            "1869",
+            "1860",
+            "1859"
+        ],
+        "correct_answer": "1869",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "In the War of the Pacific (1879 - 1883), Bolivia lost its access to the Pacific Ocean after being defeated by which South American country?",
+        "options": [
+            "Peru",
+            "Chile",
+            "Brazil",
+            "Argentina"
+        ],
+        "correct_answer": "Chile",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which of the following ancient Near Eastern peoples still exists as a modern ethnic group?",
+        "options": [
+            "Assyrians",
+            "Babylonians",
+            "Hittites",
+            "Elamites"
+        ],
+        "correct_answer": "Assyrians",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "In what dialogue did Socrates defend himself to the court of Athens? ",
+        "options": [
+            "The Euthyphro",
+            "The Apology",
+            "The Laws",
+            "The Republic"
+        ],
+        "correct_answer": "The Apology",
+        "category": "History",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the capital of Belarus?",
+        "options": [
+            "Minsk",
+            "Warsaw",
+            "Kiev",
+            "Vilnius"
+        ],
+        "correct_answer": "Minsk",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "On which continent is the country of Angola located?",
+        "options": [
+            "Africa",
+            "Europe",
+            "Asia",
+            "South America"
+        ],
+        "correct_answer": "Africa",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "How many states are in Australia?",
+        "options": [
+            "7",
+            "8",
+            "6",
+            "5"
+        ],
+        "correct_answer": "6",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the capital of British Columbia, Canada?",
+        "options": [
+            "Kelowna",
+            "Vancouver",
+            "Hope",
+            "Victoria"
+        ],
+        "correct_answer": "Victoria",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest lake in the African continent?",
+        "options": [
+            "Lake Malawi",
+            "Lake Tanganyika",
+            "Lake Turkana",
+            "Lake Victoria"
+        ],
+        "correct_answer": "Lake Victoria",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What mountain range lines the border between Spain and France?",
+        "options": [
+            "Carpathians",
+            "Alps",
+            "Pyrenees",
+            "Urals"
+        ],
+        "correct_answer": "Pyrenees",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest Muslim country in the world?",
+        "options": [
+            "Iran",
+            "Pakistan",
+            "Indonesia",
+            "Saudi Arabia"
+        ],
+        "correct_answer": "Indonesia",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+        "options": [
+            "Gibraltar",
+            "Kashmir",
+            "Andorra",
+            "Quin"
+        ],
+        "correct_answer": "Kashmir",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Where is the world's oldest still operational space launch facility located?",
+        "options": [
+            "Iran",
+            "United States",
+            "Kazakhstan",
+            "Russia"
+        ],
+        "correct_answer": "Kazakhstan",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the only remaining Grand Duchy in the world ?",
+        "options": [
+            "Montenegro",
+            "Luxembourg",
+            "Liechtenstein",
+            "Andorra"
+        ],
+        "correct_answer": "Luxembourg",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "\"The Singing Cowboy\" Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
+        "options": [
+            "Here Comes Santa Claus",
+            "White Christmas",
+            "Rudolph the Red-Nosed Reindeer",
+            "Frosty the Snowman"
+        ],
+        "correct_answer": "White Christmas",
+        "category": "Music",
+        "difficulty": "easy"
+    },
+    {
+        "question": "The 2016 song \"Starboy\" by Canadian singer The Weeknd features which prominent electronic artist?",
+        "options": [
+            "DJ Shadow",
+            "deadmau5",
+            "Daft Punk",
+            "Disclosure"
+        ],
+        "correct_answer": "Daft Punk",
+        "category": "Music",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What album did The Lumineers release in 2016?",
+        "options": [
+            "Tracks From The Attic",
+            "The Lumineers",
+            "Cleopatra",
+            "Winter"
+        ],
+        "correct_answer": "Cleopatra",
+        "category": "Music",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who is the lead singer of Pearl Jam?",
+        "options": [
+            "Ozzy Osbourne",
+            "Eddie Vedder",
+            "Stone Gossard",
+            "Kurt Cobain"
+        ],
+        "correct_answer": "Eddie Vedder",
+        "category": "Music",
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many strings are there on a cello?",
+        "options": [
+            "5",
+            "8",
+            "6",
+            "4"
+        ],
+        "correct_answer": "4",
+        "category": "Music",
+        "difficulty": "easy"
+    },
+    {
+        "question": "The \"British Invasion\" was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",
+        "options": [
+            "50's",
+            "60's",
+            "40's",
+            "30's"
+        ],
+        "correct_answer": "60's",
+        "category": "Music",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the subject of the 2014 song \"CoCo\" by American rapper O. T. Genasis?",
+        "options": [
+            "Cocaine",
+            "Cobalt(II) carbonate",
+            "Conan O'Brien",
+            "Coconut cream pie"
+        ],
+        "correct_answer": "Cocaine",
+        "category": "Music",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of the following songs was not originally released by Sir Elton John? ",
+        "options": [
+            "Candle in the Wind",
+            "You'll Be In My Heart",
+            "Crocodile Rock",
+            "I Don't Wanna Go On With You Like That"
+        ],
+        "correct_answer": "You'll Be In My Heart",
+        "category": "Music",
+        "difficulty": "easy"
+    },
+    {
+        "question": "The four strings on a violin are the G string, D string, A string, and...",
+        "options": [
+            "E string",
+            "B string",
+            "F string",
+            "C string"
+        ],
+        "correct_answer": "E string",
+        "category": "Music",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who is the lead singer of Foo Fighters?",
+        "options": [
+            "Little Red Riding Hood",
+            "James Hetfield",
+            "Dave Grohl",
+            "Dave Mustaine"
+        ],
+        "correct_answer": "Dave Grohl",
+        "category": "Music",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What country is the second largest in the world by area?",
+        "options": [
+            "United States of America",
+            "Russia",
+            "Canada",
+            "China"
+        ],
+        "correct_answer": "Canada",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which nation claims ownership of Antarctica?",
+        "options": [
+            "United Nations",
+            "Australia",
+            "United States of America",
+            "No one, but there are claims."
+        ],
+        "correct_answer": "No one, but there are claims.",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the name of the peninsula containing Spain and Portugal?",
+        "options": [
+            "Scandinavian Peninsula",
+            "Iberian Peninsula",
+            "Peloponnesian Peninsula",
+            "European Peninsula"
+        ],
+        "correct_answer": "Iberian Peninsula",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "If soccer is called football in England, what is American football called in England?",
+        "options": [
+            "American football",
+            "Combball",
+            "Handball",
+            "Touchdown"
+        ],
+        "correct_answer": "American football",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the capital of Jamaica?",
+        "options": [
+            "Bridgetown",
+            "Kingston",
+            "Port-au-Prince",
+            "San Juan"
+        ],
+        "correct_answer": "Kingston",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is \u201cThe Sport of Kings\u201d?",
+        "options": [
+            "Fencing",
+            "Horse Racing",
+            "Chess",
+            "Jousting"
+        ],
+        "correct_answer": "Horse Racing",
+        "category": "Sports",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+        "options": [
+            "Ma Long (China)",
+            "Vladimir Samsonov (Belarus)",
+            "Zhang Jike (China)",
+            "Jun Mizutani (Japan)"
+        ],
+        "correct_answer": "Ma Long (China)",
+        "category": "Sports",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+        "options": [
+            "Soviet Union",
+            "Portugal",
+            "West Germany",
+            "Brazil"
+        ],
+        "correct_answer": "Portugal",
+        "category": "Sports",
+        "difficulty": "hard"
+    },
+    {
+        "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+        "options": [
+            "Nine",
+            "Ten",
+            "Seven",
+            "Eight"
+        ],
+        "correct_answer": "Nine",
+        "category": "Sports",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Etihad Stadium is the home stadium for which team?",
+        "options": [
+            "Blackpool",
+            "Manchester United",
+            "Arsenal",
+            "Manchester City"
+        ],
+        "correct_answer": "Manchester City",
+        "category": "Sports",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
+        "options": [
+            "Wrench",
+            "Screwdriver",
+            "Hammer",
+            "Drill"
+        ],
+        "correct_answer": "Hammer",
+        "category": "Sports",
+        "difficulty": "hard"
+    },
+    {
+        "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+        "options": [
+            "1987",
+            "2000",
+            "1991",
+            "1990"
+        ],
+        "correct_answer": "1991",
+        "category": "Sports",
+        "difficulty": "hard"
+    },
+    {
+        "question": "At which race was the 2018 F1 Drivers Championship won?",
+        "options": [
+            "Abu Dhabi",
+            "United States",
+            "Belgium",
+            "Mexico"
+        ],
+        "correct_answer": "Mexico",
+        "category": "Sports",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+        "options": [
+            "DING Ning (China)",
+            "LI Xiaoxia (China)",
+            "Song KIM (North Korea)",
+            "Ai FUKUHARA (Japan)"
+        ],
+        "correct_answer": "DING Ning (China)",
+        "category": "Sports",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+        "options": [
+            "Insigne",
+            "Barzagli",
+            "Giaccherini",
+            "Pelle"
+        ],
+        "correct_answer": "Pelle",
+        "category": "Sports",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of these country's capitals starts with the letter B?",
+        "options": [
+            "Kuwait",
+            "Lebanon",
+            "Jordan",
+            "Qatar"
+        ],
+        "correct_answer": "Lebanon",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which of these countries is not written in its native language?",
+        "options": [
+            "Schweiz",
+            "Slova\u0161ko",
+            "Suomi",
+            "Ell\u00e1da"
+        ],
+        "correct_answer": "Slova\u0161ko",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "How many provinces are in the Netherlands?",
+        "options": [
+            "13",
+            "10",
+            "12",
+            "14"
+        ],
+        "correct_answer": "12",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which is the world's longest river?",
+        "options": [
+            "Amazon",
+            "Yangtze",
+            "Missouri",
+            "Nile"
+        ],
+        "correct_answer": "Nile",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What city  has the busiest airport in the world?",
+        "options": [
+            "London, England",
+            "Chicago,Illinois ISA",
+            "Atlanta, Georgia USA",
+            "Tokyo,Japan"
+        ],
+        "correct_answer": "Atlanta, Georgia USA",
+        "category": "Geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which of these is the name of the largest city in the US state Tennessee?",
+        "options": [
+            "Thebes",
+            "Memphis",
+            "Luxor",
+            "Alexandria"
+        ],
+        "correct_answer": "Memphis",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is Laos?",
+        "options": [
+            "Region",
+            "River",
+            "City",
+            "Country"
+        ],
+        "correct_answer": "Country",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which ocean borders the west coast of the United States?",
+        "options": [
+            "Indian",
+            "Pacific",
+            "Atlantic",
+            "Arctic"
+        ],
+        "correct_answer": "Pacific",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "options": [
+            "Kitakyushu",
+            "Pyongyang",
+            "Seoul",
+            "Taegu"
+        ],
+        "correct_answer": "Seoul",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of the following Japanese islands is the biggest?",
+        "options": [
+            "Honshu",
+            "Kyushu",
+            "Shikoku",
+            "Hokkaido"
+        ],
+        "correct_answer": "Honshu",
+        "category": "Geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of the following was Brazil was a former colony under?",
+        "options": [
+            "France",
+            "Portugal",
+            "Spain",
+            "The Netherlands"
+        ],
+        "correct_answer": "Portugal",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which modern country is known as \"The Graveyard of Empires\"?",
+        "options": [
+            "Afghanistan",
+            "Russia",
+            "Iraq",
+            "China"
+        ],
+        "correct_answer": "Afghanistan",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which one of these countries was NOT in the Central Powers during WWI?",
+        "options": [
+            "Turkey",
+            "Germany",
+            "Austria-Hungary",
+            "Spain"
+        ],
+        "correct_answer": "Spain",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the first sport to have been played on the moon?",
+        "options": [
+            "Tennis",
+            "Football",
+            "Soccer",
+            "Golf"
+        ],
+        "correct_answer": "Golf",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the first prime minister of Canada?",
+        "options": [
+            "John Macdonald",
+            "John Abbott",
+            "Alexander Mackenzie",
+            "Robert Borden"
+        ],
+        "correct_answer": "John Macdonald",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which country was Josef Stalin born in?",
+        "options": [
+            "Georgia",
+            "Germany",
+            "Russia",
+            "Poland"
+        ],
+        "correct_answer": "Georgia",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+        "options": [
+            "Salt Road",
+            "Clay Road",
+            "Silk Road",
+            "Spice Road"
+        ],
+        "correct_answer": "Silk Road",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "How long did World War II last?",
+        "options": [
+            "7 years",
+            "4 years",
+            "6 years",
+            "5 years"
+        ],
+        "correct_answer": "6 years",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "options": [
+            "Thomas Jefferson",
+            "James K. Polk",
+            "James Madison",
+            "George Washington"
+        ],
+        "correct_answer": "George Washington",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "When did the Byzantine Empire collapse?",
+        "options": [
+            "1453",
+            "1299",
+            "1498",
+            "1353"
+        ],
+        "correct_answer": "1453",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+        "options": [
+            "Llanowar",
+            "Ulgrotha",
+            "Tazeem",
+            "Bant"
+        ],
+        "correct_answer": "Ulgrotha",
+        "category": "Literature",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is Hermione Granger's middle name?",
+        "options": [
+            "Jo",
+            "Jean",
+            "Jane",
+            "Emma"
+        ],
+        "correct_answer": "Jean",
+        "category": "Literature",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of the following is NOT a work done by Shakespeare?",
+        "options": [
+            "Titus Andronicus",
+            "Trial of Temperance",
+            "Measure For Measure",
+            "Cymbeline"
+        ],
+        "correct_answer": "Trial of Temperance",
+        "category": "Literature",
+        "difficulty": "hard"
+    },
+    {
+        "question": "The novel \"Jane Eyre\" was written by what author? ",
+        "options": [
+            "Emily Bront\u00eb",
+            "Jane Austen",
+            "Louisa May Alcott",
+            "Charlotte Bront\u00eb"
+        ],
+        "correct_answer": "Charlotte Bront\u00eb",
+        "category": "Literature",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+        "options": [
+            "Wealthy Boy and the Schmuck",
+            "A Modern Twain Story",
+            "Hamlet",
+            "The Prince and the Pauper"
+        ],
+        "correct_answer": "The Prince and the Pauper",
+        "category": "Literature",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
+        "options": [
+            "Thievery",
+            "Justice",
+            "Chaos",
+            "Shadow"
+        ],
+        "correct_answer": "Shadow",
+        "category": "Literature",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+        "options": [
+            "Peter Pan",
+            "The Grapes of Wrath",
+            "The Great Gatsby",
+            "Hamlet"
+        ],
+        "correct_answer": "The Grapes of Wrath",
+        "category": "Literature",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In which classic novel is there a character named Homer Simpson?",
+        "options": [
+            "Of Mice and Men",
+            "Catch-22",
+            "The Day of the Locust",
+            "A Separate Peace"
+        ],
+        "correct_answer": "The Day of the Locust",
+        "category": "Literature",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+        "options": [
+            "Terisiare",
+            "Aerona",
+            "Shiv",
+            "Jamuraa"
+        ],
+        "correct_answer": "Terisiare",
+        "category": "Literature",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is Ron Weasley's middle name?",
+        "options": [
+            "Bilius",
+            "Arthur",
+            "John",
+            "Dominic"
+        ],
+        "correct_answer": "Bilius",
+        "category": "Literature",
+        "difficulty": "hard"
+    },
+    {
+        "question": "For the film \"Raiders of The Lost Ark\", what was Harrison Ford sick with during the filming of the Cairo chase?",
+        "options": [
+            "Acid Reflux ",
+            "Dysentery",
+            "Anemia",
+            "Constipation"
+        ],
+        "correct_answer": "Dysentery",
+        "category": "Movies",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who plays Alice in the Resident Evil movies?",
+        "options": [
+            "Kim Demp",
+            "Milla Jovovich",
+            "Milla Johnson",
+            "Madison Derpe"
+        ],
+        "correct_answer": "Milla Jovovich",
+        "category": "Movies",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie \"Batman\"?",
+        "options": [
+            "George Clooney",
+            "Adam West",
+            "Michael Keaton",
+            "Val Kilmer"
+        ],
+        "correct_answer": "Michael Keaton",
+        "category": "Movies",
+        "difficulty": "easy"
+    },
+    {
+        "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+        "options": [
+            "Highlander",
+            "Howard the Duck",
+            "Labyrinth",
+            "Flash Gordon"
+        ],
+        "correct_answer": "Highlander",
+        "category": "Movies",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which film has been critically regarded as the best film of all time?",
+        "options": [
+            "The Godfather Part II",
+            "Avatar",
+            "Citizen Kane",
+            "The Room"
+        ],
+        "correct_answer": "Citizen Kane",
+        "category": "Movies",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who directed the movies \"Pulp Fiction\", \"Reservoir Dogs\" and \"Django Unchained\"?",
+        "options": [
+            "James Cameron",
+            "Steven Spielberg",
+            "Martin Scorcese",
+            "Quentin Tarantino"
+        ],
+        "correct_answer": "Quentin Tarantino",
+        "category": "Movies",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Where does the original Friday The 13th movie take place?",
+        "options": [
+            "Camp Crystal Lake",
+            "Packanack",
+            "Camp Forest Green",
+            "Higgins Haven"
+        ],
+        "correct_answer": "Camp Crystal Lake",
+        "category": "Movies",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of these films is NOT set in Los Angeles?",
+        "options": [
+            "Predator 2",
+            "Blade Runner",
+            "The Terminator",
+            "RoboCop"
+        ],
+        "correct_answer": "RoboCop",
+        "category": "Movies",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Who is frozen at the end of the movie \"Goldeneye\"?",
+        "options": [
+            "Boris Grishenko",
+            "Natalya Simonova",
+            "James Bond",
+            "Alec Travelyan"
+        ],
+        "correct_answer": "Boris Grishenko",
+        "category": "Movies",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+        "options": [
+            "Harry Potter",
+            "Spy Kids",
+            "Ted",
+            "Pirates of the Caribbean "
+        ],
+        "correct_answer": "Harry Potter",
+        "category": "Movies",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What year was Min Yoongi from South Korea boy band \"BTS\" born in?",
+        "options": [
+            "1992",
+            "1995",
+            "1993",
+            "1994"
+        ],
+        "correct_answer": "1993",
+        "category": "Music",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Who was the original drummer for The Beatles?",
+        "options": [
+            "Ringo Starr",
+            "Tommy Moore",
+            "Pete Best",
+            "Stuart Sutcliffe"
+        ],
+        "correct_answer": "Tommy Moore",
+        "category": "Music",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which album was released by Kanye West in 2013?",
+        "options": [
+            "The Life of Pablo",
+            "My Beautiful Dark Twisted Fantasy",
+            "Watch the Throne",
+            "Yeezus"
+        ],
+        "correct_answer": "Yeezus",
+        "category": "Music",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In the metal band Slipknot, there are 9 members, which member labelled themselves number 6? ",
+        "options": [
+            "Sid Wilson",
+            "Cory Taylor",
+            "Shawn Crahan (Clown)",
+            "Mick Thomson"
+        ],
+        "correct_answer": "Shawn Crahan (Clown)",
+        "category": "Music",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What song includes the words \"Numa Numa\" which was subject to a Viral Video in 2004?",
+        "options": [
+            "Asereje",
+            "Despacito",
+            "Dragostea Din Tei",
+            "Gangnam Style"
+        ],
+        "correct_answer": "Dragostea Din Tei",
+        "category": "Music",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which company did the animation for Peter Gabriel's Video Sledgehammer (1986)?",
+        "options": [
+            "Aardman Animations",
+            "Illumination Entertainment",
+            "VIZ Media",
+            "HIT Entertainment"
+        ],
+        "correct_answer": "Aardman Animations",
+        "category": "Music",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which member of the English band \"The xx\" released their solo album \"In Colour\" in 2015?",
+        "options": [
+            "Oliver Sim",
+            "Baria Qureshi",
+            "Jamie xx",
+            "Romy Madley Croft"
+        ],
+        "correct_answer": "Jamie xx",
+        "category": "Music",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In the Panic! At the Disco's song \"Nothern Downpour\", which lyric follows 'I know the world's a broken bone'.",
+        "options": [
+            "\"So sing your song until you're home\"",
+            "\"So start a fire in their cold stone\"",
+            "\"So let them know they're on their own\"",
+            "\"So melt your headaches call it home\""
+        ],
+        "correct_answer": "\"So melt your headaches call it home\"",
+        "category": "Music",
+        "difficulty": "hard"
+    },
+    {
+        "question": "This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.",
+        "options": [
+            "Pet Sounds",
+            "Led Zeppelin IV",
+            "The Velvet Underground and Nico",
+            "Abbey Road"
+        ],
+        "correct_answer": "The Velvet Underground and Nico",
+        "category": "Music",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Panic! At the Disco's sixth album \"Pray For The Wicked\" was released on which date?",
+        "options": [
+            "June 22, 2018",
+            "March 13, 2018",
+            "February 21, 2018",
+            "May 9, 2018"
+        ],
+        "correct_answer": "June 22, 2018",
+        "category": "Music",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+        "options": [
+            "Blind Sight",
+            "Split-Brain",
+            "Flip-Flop Syndrome",
+            "Cognitive Dissonance"
+        ],
+        "correct_answer": "Cognitive Dissonance",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "A positron is an antiparticle of a what?",
+        "options": [
+            "Neutron",
+            "Photon",
+            "Proton",
+            "Electron"
+        ],
+        "correct_answer": "Electron",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "The human right lung has how many lobes?",
+        "options": [
+            "1",
+            "3",
+            "4",
+            "2"
+        ],
+        "correct_answer": "3",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+        "options": [
+            "Beryllium",
+            "Mercury",
+            "Gallium",
+            "Caesium"
+        ],
+        "correct_answer": "Beryllium",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the half-life of Uranium-235?",
+        "options": [
+            "4,300,400,000 years",
+            "Uranium-235 is a stable isotope",
+            "1,260,900,000 years",
+            "703,800,000 years"
+        ],
+        "correct_answer": "703,800,000 years",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the study of the cells and tissues of plants and animals?",
+        "options": [
+            "Histology",
+            "Anatomy",
+            "Microbiology",
+            "Biochemistry"
+        ],
+        "correct_answer": "Histology",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which of these is NOT a part of the structure of a typical neuron?",
+        "options": [
+            "Islets of Langerhans",
+            "Schwann cell",
+            "Node of Ranvier",
+            "Myelin sheath"
+        ],
+        "correct_answer": "Islets of Langerhans",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Where did the dog breed \"Chihuahua\" originate?",
+        "options": [
+            "Spain",
+            "Russia",
+            "Mexico",
+            "France"
+        ],
+        "correct_answer": "Mexico",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the unit of electrical capacitance?",
+        "options": [
+            "Henry",
+            "Farad",
+            "Watt",
+            "Gauss"
+        ],
+        "correct_answer": "Farad",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the Linnean name of the domestic apple tree?",
+        "options": [
+            "Appelus delectica",
+            "Malus americana",
+            "Malus pumila",
+            "Pomus domestica"
+        ],
+        "correct_answer": "Malus pumila",
+        "category": "Science",
+        "difficulty": "medium"
+    },
+    {
+        "question": "The word \"science\" stems from the word \"scire\" meaning what?",
+        "options": [
+            "To know",
+            "To live",
+            "To count",
+            "To measure"
+        ],
+        "correct_answer": "To know",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which constellation contains the center of the Milky Way?",
+        "options": [
+            "Scorpius",
+            "Capricornus",
+            "Sagittarius",
+            "Ophiuchus"
+        ],
+        "correct_answer": "Sagittarius",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Where in the human body is the Pineal Gland located?",
+        "options": [
+            "Groin",
+            "Chest",
+            "Throat",
+            "Brain"
+        ],
+        "correct_answer": "Brain",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What causes the sound of a heartbeat?",
+        "options": [
+            "Blood exiting the heart",
+            "Contraction of the heart chambers",
+            "Relaxation of the heart chambers",
+            "Closure of the heart valves"
+        ],
+        "correct_answer": "Closure of the heart valves",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of the following is the term for \"surgical complications resulting from surgical sponges left inside the patient's body?",
+        "options": [
+            "Gossypiboma",
+            "Meupareunia",
+            "Gongoozler",
+            "Jentacular"
+        ],
+        "correct_answer": "Gossypiboma",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "The Western Lowland Gorilla is scientifically know as?",
+        "options": [
+            "Gorilla Beringei Beringei",
+            "Gorilla Gorilla Diehli",
+            "Gorilla Gorilla Gorilla",
+            "Gorilla Beringei Graueri"
+        ],
+        "correct_answer": "Gorilla Gorilla Gorilla",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the most potent toxin known?",
+        "options": [
+            "Cyanide",
+            "Botulinum toxin",
+            "Ricin",
+            "Asbestos"
+        ],
+        "correct_answer": "Botulinum toxin",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+        "options": [
+            "McGurck Effect",
+            "Shepard Tone",
+            "Fransen Effect",
+            "Glissandro Illusion"
+        ],
+        "correct_answer": "Shepard Tone",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of the following is a major muscle of the back?",
+        "options": [
+            "Trapezius",
+            "Triquetrum",
+            "Trapezium",
+            "Trapezoid"
+        ],
+        "correct_answer": "Trapezius",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+        "options": [
+            "Down Syndrome",
+            "Klinefelter's Syndrome",
+            "Jacob's Syndrome",
+            "Turner's Syndrome"
+        ],
+        "correct_answer": "Jacob's Syndrome",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What does the United States of America celebrate during the 4th of July?",
+        "options": [
+            "The ratification of the Constitution",
+            "The signing of the Declaration of Independence",
+            "The crossing of the Delaware River",
+            "The anniversary of the Battle of Gettysburg"
+        ],
+        "correct_answer": "The signing of the Declaration of Independence",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+        "options": [
+            "Tokyo",
+            "Kawasaki",
+            "Nagasaki",
+            "Kagoshima"
+        ],
+        "correct_answer": "Nagasaki",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "How was Socrates executed?",
+        "options": [
+            "Crucifixion ",
+            "Poison",
+            "Decapitation",
+            "Firing squad"
+        ],
+        "correct_answer": "Poison",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+        "options": [
+            "1726",
+            "1724",
+            "1727",
+            "1721"
+        ],
+        "correct_answer": "1721",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "In what year did the Wall Street Crash take place?",
+        "options": [
+            "1930",
+            "1929",
+            "1925",
+            "1932"
+        ],
+        "correct_answer": "1929",
+        "category": "History",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+        "options": [
+            "MSX",
+            "FM-7",
+            "Xmillennium ",
+            "PC-9801"
+        ],
+        "correct_answer": "FM-7",
+        "category": "Technology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+        "options": [
+            "?:",
+            "?",
+            "??",
+            "if then"
+        ],
+        "correct_answer": "?:",
+        "category": "Technology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which of these people was NOT a founder of Apple Inc?",
+        "options": [
+            "Jonathan Ive",
+            "Ronald Wayne",
+            "Steve Wozniak",
+            "Steve Jobs"
+        ],
+        "correct_answer": "Jonathan Ive",
+        "category": "Technology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Generally, which component of a computer draws the most power?",
+        "options": [
+            "Power Supply",
+            "Video Card",
+            "Hard Drive",
+            "Processor"
+        ],
+        "correct_answer": "Video Card",
+        "category": "Technology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "How fast is USB 3.1 Gen 2 theoretically?",
+        "options": [
+            "8 Gb/s",
+            "10 Gb/s",
+            "5 Gb/s",
+            "1 Gb/s"
+        ],
+        "correct_answer": "10 Gb/s",
+        "category": "Technology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What does RAID stand for?",
+        "options": [
+            "Rapid Access for Indexed Devices",
+            "Redundant Array of Independent Disks",
+            "Range of Applications with Identical Designs",
+            "Randomized Abstract Identification Description"
+        ],
+        "correct_answer": "Redundant Array of Independent Disks",
+        "category": "Technology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "When was the programming language \"C#\" released?",
+        "options": [
+            "1999",
+            "1998",
+            "2001",
+            "2000"
+        ],
+        "correct_answer": "2000",
+        "category": "Technology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "On which computer hardware device is the BIOS chip located?",
+        "options": [
+            "Central Processing Unit",
+            "Graphics Processing Unit",
+            "Hard Disk Drive",
+            "Motherboard"
+        ],
+        "correct_answer": "Motherboard",
+        "category": "Technology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What year was the first iPhone released?",
+        "options": [
+            "2007",
+            "2005",
+            "2009",
+            "2010"
+        ],
+        "correct_answer": "2007",
+        "category": "Technology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which programming language was created by Guido van Rossum?",
+        "options": [
+            "Python",
+            "Java",
+            "C++",
+            "Ruby"
+        ],
+        "correct_answer": "Python",
+        "category": "Technology",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What does DNA stand for?",
+        "options": [
+            "Deoxyribogenetic Acid",
+            "Deoxyribogenetic Atoms",
+            "Detoxic Acid",
+            "Deoxyribonucleic Acid"
+        ],
+        "correct_answer": "Deoxyribonucleic Acid",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the first element on the periodic table?",
+        "options": [
+            "Hydrogen",
+            "Lithium",
+            "Helium",
+            "Oxygen"
+        ],
+        "correct_answer": "Hydrogen",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which of the following is not one of the groups on the periodic table?",
+        "options": [
+            "Noble Gases",
+            "Alkali Metals",
+            "Halogens",
+            "Fluorines"
+        ],
+        "correct_answer": "Fluorines",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What does the letter 'S' stand for in 'NASA'?",
+        "options": [
+            "Society",
+            "Star",
+            "Space",
+            "Science"
+        ],
+        "correct_answer": "Space",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which element has the highest melting point?",
+        "options": [
+            "Osmium",
+            "Platinum",
+            "Tungsten",
+            "Carbon"
+        ],
+        "correct_answer": "Carbon",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the atomic mass of Carbon?",
+        "options": [
+            "14",
+            "12",
+            "16",
+            "10"
+        ],
+        "correct_answer": "12",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What name is given to all baby marsupials?",
+        "options": [
+            "Pup",
+            "Cub",
+            "Calf",
+            "Joey"
+        ],
+        "correct_answer": "Joey",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What lies at the center of our galaxy?",
+        "options": [
+            "A quasar",
+            "A wormhole",
+            "A black hole",
+            "A supernova"
+        ],
+        "correct_answer": "A black hole",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which Apollo mission was the first one to land on the Moon?",
+        "options": [
+            "Apollo 10",
+            "Apollo 9",
+            "Apollo 13",
+            "Apollo 11"
+        ],
+        "correct_answer": "Apollo 11",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "How many bones are in the human body?",
+        "options": [
+            "209",
+            "203",
+            "200",
+            "206"
+        ],
+        "correct_answer": "206",
+        "category": "Science",
+        "difficulty": "easy"
+    },
+    {
+        "question": "The letters in the name of the band \"TWRP\" stand for what?",
+        "options": [
+            "Totally Wicked Robot Performers",
+            "Tupperware Remix Party",
+            "Taiwan Roleplay",
+            "Team Wild and the Radio Pirates"
+        ],
+        "correct_answer": "Tupperware Remix Party",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Typically, how many keys are on a piano?",
+        "options": [
+            "24",
+            "96",
+            "12",
+            "88"
+        ],
+        "correct_answer": "88",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "In what year was Tchaikovsky's 1812 Overture composed?",
+        "options": [
+            "1790",
+            "1812",
+            "1840",
+            "1880"
+        ],
+        "correct_answer": "1880",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who is the founder and leader of industrial rock band, 'Nine Inch Nails'?",
+        "options": [
+            "Marilyn Manson",
+            "Trent Reznor",
+            "Josh Homme",
+            "Robin Finck"
+        ],
+        "correct_answer": "Trent Reznor",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What was the name of the Wu-Tang Clan album Martin Shkreli bought for $2 million dollars?",
+        "options": [
+            "8 Diagrams",
+            "A Better Tomorrow",
+            "The Saga Continues",
+            "Once Upon a Time in Shaolin"
+        ],
+        "correct_answer": "Once Upon a Time in Shaolin",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who had hits in the 70s with the songs \"Lonely Boy\" and \"Never Let Her Slip Away\"?",
+        "options": [
+            "Elton John",
+            "Andrew Gold",
+            "Barry White ",
+            "Leo Sayer"
+        ],
+        "correct_answer": "Andrew Gold",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Saul Hudson (Slash) of the band Guns N' Roses is known for playing what type of guitar?",
+        "options": [
+            "Gretsch Falcon",
+            "Fender Stratocaster",
+            "Les Paul Standard",
+            "LsL Mongrel"
+        ],
+        "correct_answer": "Les Paul Standard",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the name of the second studio album released by American rapper Post Malone in 2018?",
+        "options": [
+            "Better Now",
+            "Rockstar",
+            "Beerbongs & Bentleys",
+            "Takin' Shots"
+        ],
+        "correct_answer": "Beerbongs & Bentleys",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which band released the album 'The Dark Side of the Moon'?",
+        "options": [
+            "Pink Floyd",
+            "The Beatles",
+            "Led Zeppelin",
+            "The Rolling Stones"
+        ],
+        "correct_answer": "Pink Floyd",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Who composed the 'Four Seasons'?",
+        "options": [
+            "Antonio Vivaldi",
+            "Johann Sebastian Bach",
+            "Wolfgang Amadeus Mozart",
+            "Ludwig van Beethoven"
+        ],
+        "correct_answer": "Antonio Vivaldi",
+        "category": "Music",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What element on the periodic table has 92 electrons?",
+        "options": [
+            "Uranium",
+            "Iron",
+            "Sulfur",
+            "Hydrogen"
+        ],
+        "correct_answer": "Uranium",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which of these chemical compounds is NOT found in gastric acid?",
+        "options": [
+            "Sodium chloride",
+            "Potassium chloride",
+            "Hydrochloric acid",
+            "Sulfuric acid"
+        ],
+        "correct_answer": "Sulfuric acid",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What nucleotide pairs with guanine?",
+        "options": [
+            "Uracil",
+            "Adenine",
+            "Thymine",
+            "Cytosine"
+        ],
+        "correct_answer": "Cytosine",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is the unit of electrical inductance?",
+        "options": [
+            "Mho",
+            "Weber",
+            "Henry",
+            "Coulomb"
+        ],
+        "correct_answer": "Henry",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What is considered the rarest form of color blindness?",
+        "options": [
+            "Blue",
+            "Red",
+            "Green",
+            "Purple"
+        ],
+        "correct_answer": "Blue",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
+        "options": [
+            "Sneeze",
+            "Yawn",
+            "Hiccup",
+            "Cough"
+        ],
+        "correct_answer": "Sneeze",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+        "options": [
+            "Ethanol",
+            "Urea",
+            "Formaldehyde",
+            "Propane"
+        ],
+        "correct_answer": "Urea",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+        "options": [
+            "Wick's Theorem",
+            "Carnot's Theorem",
+            "Noether's Theorem",
+            "Bell's Theorem"
+        ],
+        "correct_answer": "Noether's Theorem",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Muscle fiber is constructed of bundles small long organelles called what?",
+        "options": [
+            "Epimysium",
+            "Myofibrils",
+            "Myofiaments",
+            "Myocardium"
+        ],
+        "correct_answer": "Myofibrils",
+        "category": "Science",
+        "difficulty": "hard"
+    },
+    {
+        "question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+        "options": [
+            "Jacob's Syndrome",
+            "Turner's Syndrome",
+            "Klinefelter's Syndrome",
+            "Down Syndrome"
+        ],
+        "correct_answer": "Jacob's Syndrome",
+        "category": "Science",
+        "difficulty": "hard"
+    }
+]

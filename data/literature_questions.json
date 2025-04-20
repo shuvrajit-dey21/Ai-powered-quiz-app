@@ -1,0 +1,247 @@
+{
+    "easy": [],
+    "medium": [
+        {
+            "question": "In Alice in Wonderland, what is the name of Alice's kitten?",
+            "options": [
+                "Oscar",
+                "Heath",
+                "Dinah",
+                "Smokey"
+            ],
+            "correct_answer": "Dinah",
+            "category": "Literature",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Who wrote the \"A Song of Ice And Fire\" fantasy novel series?",
+            "options": [
+                "George R. R. Martin",
+                "George Lucas",
+                "George Eliot",
+                "George Orwell"
+            ],
+            "correct_answer": "George R. R. Martin",
+            "category": "Literature",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the name of Eragon's dragon in \"Eragon\"?",
+            "options": [
+                "Thorn",
+                "Glaedr",
+                "Saphira",
+                "Arya"
+            ],
+            "correct_answer": "Saphira",
+            "category": "Literature",
+            "difficulty": "medium"
+        },
+        {
+            "question": "In the novel \"Lord of the Rings\", how many rings of power were given to the race of man?",
+            "options": [
+                "5",
+                "9",
+                "11",
+                "13"
+            ],
+            "correct_answer": "9",
+            "category": "Literature",
+            "difficulty": "medium"
+        },
+        {
+            "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+            "options": [
+                "The Thing",
+                "Frankenstein's monster",
+                "The Invisible Man",
+                "Dracula"
+            ],
+            "correct_answer": "Frankenstein's monster",
+            "category": "Literature",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+            "options": [
+                "A Hat in Time",
+                "The Dresden Files",
+                "The Cinder Spires",
+                "My Life as a Teenage Wizard"
+            ],
+            "correct_answer": "The Dresden Files",
+            "category": "Literature",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+            "options": [
+                "F. Scott Fitzgerald",
+                "William Faulkner",
+                "John Steinbeck",
+                "Ernest Hemingway"
+            ],
+            "correct_answer": "John Steinbeck",
+            "category": "Literature",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Who is the author of the series \"Malazan Book of the Fallen\"?",
+            "options": [
+                "Ian Cameron Esslemont",
+                "Steven Erikson",
+                "George R. R. Martin",
+                "J. R. R. Tolkien"
+            ],
+            "correct_answer": "Steven Erikson",
+            "category": "Literature",
+            "difficulty": "medium"
+        },
+        {
+            "question": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+            "options": [
+                "Liu Bei",
+                "Guan Yu",
+                "Zhang Fei",
+                "Zhao Yun"
+            ],
+            "correct_answer": "Zhao Yun",
+            "category": "Literature",
+            "difficulty": "medium"
+        },
+        {
+            "question": "According to The Hitchhiker's Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+            "options": [
+                "Loving everyone around you",
+                "42",
+                "Chocolate",
+                "Death"
+            ],
+            "correct_answer": "42",
+            "category": "Literature",
+            "difficulty": "medium"
+        }
+    ],
+    "hard": [
+        {
+            "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+            "options": [
+                "Llanowar",
+                "Ulgrotha",
+                "Tazeem",
+                "Bant"
+            ],
+            "correct_answer": "Ulgrotha",
+            "category": "Literature",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is Hermione Granger's middle name?",
+            "options": [
+                "Jo",
+                "Jean",
+                "Jane",
+                "Emma"
+            ],
+            "correct_answer": "Jean",
+            "category": "Literature",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which of the following is NOT a work done by Shakespeare?",
+            "options": [
+                "Titus Andronicus",
+                "Trial of Temperance",
+                "Measure For Measure",
+                "Cymbeline"
+            ],
+            "correct_answer": "Trial of Temperance",
+            "category": "Literature",
+            "difficulty": "hard"
+        },
+        {
+            "question": "The novel \"Jane Eyre\" was written by what author? ",
+            "options": [
+                "Emily Bront\u00eb",
+                "Jane Austen",
+                "Louisa May Alcott",
+                "Charlotte Bront\u00eb"
+            ],
+            "correct_answer": "Charlotte Bront\u00eb",
+            "category": "Literature",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+            "options": [
+                "Wealthy Boy and the Schmuck",
+                "A Modern Twain Story",
+                "Hamlet",
+                "The Prince and the Pauper"
+            ],
+            "correct_answer": "The Prince and the Pauper",
+            "category": "Literature",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
+            "options": [
+                "Thievery",
+                "Justice",
+                "Chaos",
+                "Shadow"
+            ],
+            "correct_answer": "Shadow",
+            "category": "Literature",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+            "options": [
+                "Peter Pan",
+                "The Grapes of Wrath",
+                "The Great Gatsby",
+                "Hamlet"
+            ],
+            "correct_answer": "The Grapes of Wrath",
+            "category": "Literature",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In which classic novel is there a character named Homer Simpson?",
+            "options": [
+                "Of Mice and Men",
+                "Catch-22",
+                "The Day of the Locust",
+                "A Separate Peace"
+            ],
+            "correct_answer": "The Day of the Locust",
+            "category": "Literature",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+            "options": [
+                "Terisiare",
+                "Aerona",
+                "Shiv",
+                "Jamuraa"
+            ],
+            "correct_answer": "Terisiare",
+            "category": "Literature",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is Ron Weasley's middle name?",
+            "options": [
+                "Bilius",
+                "Arthur",
+                "John",
+                "Dominic"
+            ],
+            "correct_answer": "Bilius",
+            "category": "Literature",
+            "difficulty": "hard"
+        }
+    ]
+}

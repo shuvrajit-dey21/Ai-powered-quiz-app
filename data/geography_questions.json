@@ -1,0 +1,548 @@
+{
+    "easy": [
+        {
+            "question": "How many countries does the United States share a land border with?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "1"
+            ],
+            "correct_answer": "2",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Harvard University is located in which city?",
+            "options": [
+                "Cambridge",
+                "New York",
+                "Washington D.C.",
+                "Providence"
+            ],
+            "correct_answer": "Cambridge",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the official language of Costa Rica?",
+            "options": [
+                "English",
+                "Creole",
+                "Portuguese",
+                "Spanish"
+            ],
+            "correct_answer": "Spanish",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the capital of India?",
+            "options": [
+                "Montreal",
+                "New Delhi",
+                "Beijing",
+                "Tithi"
+            ],
+            "correct_answer": "New Delhi",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "The body of the Egyptian Sphinx was based on which animal?",
+            "options": [
+                "Lion",
+                "Bull",
+                "Dog",
+                "Horse"
+            ],
+            "correct_answer": "Lion",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the smallest country in the world?",
+            "options": [
+                "Monaco",
+                "Vatican City",
+                "Malta",
+                "Maldives"
+            ],
+            "correct_answer": "Vatican City",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What country is the second largest in the world by area?",
+            "options": [
+                "Russia",
+                "United States of America",
+                "China",
+                "Canada"
+            ],
+            "correct_answer": "Canada",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which of the following Japanese islands is the biggest?",
+            "options": [
+                "Kyushu",
+                "Honshu",
+                "Hokkaido",
+                "Shikoku"
+            ],
+            "correct_answer": "Honshu",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which ocean borders the west coast of the United States?",
+            "options": [
+                "Arctic",
+                "Indian",
+                "Pacific",
+                "Atlantic"
+            ],
+            "correct_answer": "Pacific",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+            "options": [
+                "United Arab Emirates",
+                "Kuwait",
+                "Qatar",
+                "Jordan"
+            ],
+            "correct_answer": "Qatar",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What country is the second largest in the world by area?",
+            "options": [
+                "United States of America",
+                "Russia",
+                "Canada",
+                "China"
+            ],
+            "correct_answer": "Canada",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which nation claims ownership of Antarctica?",
+            "options": [
+                "United Nations",
+                "Australia",
+                "United States of America",
+                "No one, but there are claims."
+            ],
+            "correct_answer": "No one, but there are claims.",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the name of the peninsula containing Spain and Portugal?",
+            "options": [
+                "Scandinavian Peninsula",
+                "Iberian Peninsula",
+                "Peloponnesian Peninsula",
+                "European Peninsula"
+            ],
+            "correct_answer": "Iberian Peninsula",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "If soccer is called football in England, what is American football called in England?",
+            "options": [
+                "American football",
+                "Combball",
+                "Handball",
+                "Touchdown"
+            ],
+            "correct_answer": "American football",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the capital of Jamaica?",
+            "options": [
+                "Bridgetown",
+                "Kingston",
+                "Port-au-Prince",
+                "San Juan"
+            ],
+            "correct_answer": "Kingston",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which of these is the name of the largest city in the US state Tennessee?",
+            "options": [
+                "Thebes",
+                "Memphis",
+                "Luxor",
+                "Alexandria"
+            ],
+            "correct_answer": "Memphis",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is Laos?",
+            "options": [
+                "Region",
+                "River",
+                "City",
+                "Country"
+            ],
+            "correct_answer": "Country",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which ocean borders the west coast of the United States?",
+            "options": [
+                "Indian",
+                "Pacific",
+                "Atlantic",
+                "Arctic"
+            ],
+            "correct_answer": "Pacific",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the capital of South Korea?",
+            "options": [
+                "Kitakyushu",
+                "Pyongyang",
+                "Seoul",
+                "Taegu"
+            ],
+            "correct_answer": "Seoul",
+            "category": "Geography",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which of the following Japanese islands is the biggest?",
+            "options": [
+                "Honshu",
+                "Kyushu",
+                "Shikoku",
+                "Hokkaido"
+            ],
+            "correct_answer": "Honshu",
+            "category": "Geography",
+            "difficulty": "easy"
+        }
+    ],
+    "medium": [
+        {
+            "question": "What is the capital of Belarus?",
+            "options": [
+                "Minsk",
+                "Warsaw",
+                "Kiev",
+                "Vilnius"
+            ],
+            "correct_answer": "Minsk",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "On which continent is the country of Angola located?",
+            "options": [
+                "Africa",
+                "Europe",
+                "Asia",
+                "South America"
+            ],
+            "correct_answer": "Africa",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "How many states are in Australia?",
+            "options": [
+                "7",
+                "8",
+                "6",
+                "5"
+            ],
+            "correct_answer": "6",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the capital of British Columbia, Canada?",
+            "options": [
+                "Kelowna",
+                "Vancouver",
+                "Hope",
+                "Victoria"
+            ],
+            "correct_answer": "Victoria",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the largest lake in the African continent?",
+            "options": [
+                "Lake Malawi",
+                "Lake Tanganyika",
+                "Lake Turkana",
+                "Lake Victoria"
+            ],
+            "correct_answer": "Lake Victoria",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What mountain range lines the border between Spain and France?",
+            "options": [
+                "Carpathians",
+                "Alps",
+                "Pyrenees",
+                "Urals"
+            ],
+            "correct_answer": "Pyrenees",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the largest Muslim country in the world?",
+            "options": [
+                "Iran",
+                "Pakistan",
+                "Indonesia",
+                "Saudi Arabia"
+            ],
+            "correct_answer": "Indonesia",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+            "options": [
+                "Gibraltar",
+                "Kashmir",
+                "Andorra",
+                "Quin"
+            ],
+            "correct_answer": "Kashmir",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Where is the world's oldest still operational space launch facility located?",
+            "options": [
+                "Iran",
+                "United States",
+                "Kazakhstan",
+                "Russia"
+            ],
+            "correct_answer": "Kazakhstan",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the name of the only remaining Grand Duchy in the world ?",
+            "options": [
+                "Montenegro",
+                "Luxembourg",
+                "Liechtenstein",
+                "Andorra"
+            ],
+            "correct_answer": "Luxembourg",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which of these country's capitals starts with the letter B?",
+            "options": [
+                "Kuwait",
+                "Lebanon",
+                "Jordan",
+                "Qatar"
+            ],
+            "correct_answer": "Lebanon",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which of these countries is not written in its native language?",
+            "options": [
+                "Schweiz",
+                "Slova\u0161ko",
+                "Suomi",
+                "Ell\u00e1da"
+            ],
+            "correct_answer": "Slova\u0161ko",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "How many provinces are in the Netherlands?",
+            "options": [
+                "13",
+                "10",
+                "12",
+                "14"
+            ],
+            "correct_answer": "12",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which is the world's longest river?",
+            "options": [
+                "Amazon",
+                "Yangtze",
+                "Missouri",
+                "Nile"
+            ],
+            "correct_answer": "Nile",
+            "category": "Geography",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What city  has the busiest airport in the world?",
+            "options": [
+                "London, England",
+                "Chicago,Illinois ISA",
+                "Atlanta, Georgia USA",
+                "Tokyo,Japan"
+            ],
+            "correct_answer": "Atlanta, Georgia USA",
+            "category": "Geography",
+            "difficulty": "medium"
+        }
+    ],
+    "hard": [
+        {
+            "question": "What is the Finnish word for \"Finland\"?",
+            "options": [
+                "Magyarorsz\u00e1g",
+                "Sverige",
+                "Eesti",
+                "Suomi"
+            ],
+            "correct_answer": "Suomi",
+            "category": "Geography",
+            "difficulty": "hard"
+        },
+        {
+            "question": "The Hunua Ranges is located in...",
+            "options": [
+                "Nepal",
+                "China",
+                "Mexico",
+                "New Zealand"
+            ],
+            "correct_answer": "New Zealand",
+            "category": "Geography",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which of these is NOT a city in India?",
+            "options": [
+                "Ahmedabad",
+                "Ghaziabad",
+                "Islamabad",
+                "Hyderabad"
+            ],
+            "correct_answer": "Islamabad",
+            "category": "Geography",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What year is on the flag of the US state Wisconsin?",
+            "options": [
+                "1848",
+                "1634",
+                "1783",
+                "1901"
+            ],
+            "correct_answer": "1848",
+            "category": "Geography",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is the tallest mountain in Canada?",
+            "options": [
+                "Blue Mountain",
+                "Whistler Mountain",
+                "Mount Logan",
+                "Mont Tremblant"
+            ],
+            "correct_answer": "Mount Logan",
+            "category": "Geography",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is the largest freshwater lake by volume?",
+            "options": [
+                "Lake Baikal",
+                "Lake Superior",
+                "Lake Michigan",
+                "Lake Huron"
+            ],
+            "correct_answer": "Lake Baikal",
+            "category": "Geography",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In which city, is the Big Nickel located in Canada?",
+            "options": [
+                "Calgary, Alberta",
+                "Halifax, Nova Scotia ",
+                "Sudbury, Ontario",
+                "Victoria, British Columbia"
+            ],
+            "correct_answer": "Sudbury, Ontario",
+            "category": "Geography",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Llanfair\u00adpwllgwyngyll\u00adgogery\u00adchwyrn\u00addrobwll\u00adllan\u00adtysilio\u00adgogo\u00adgoch is located on which Welsh island?",
+            "options": [
+                "Barry",
+                "Caldey",
+                "Anglesey",
+                "Bardsey"
+            ],
+            "correct_answer": "Anglesey",
+            "category": "Geography",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which of these cities has a 4\u00b0 East longitude. ",
+            "options": [
+                "Amsterdam",
+                "Hong Kong",
+                "Toronto",
+                "Rio de Janero"
+            ],
+            "correct_answer": "Amsterdam",
+            "category": "Geography",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is the land connecting North America and South America?",
+            "options": [
+                "Australasia",
+                "Isthmus of Panama",
+                "Urals",
+                "Isthmus of Suez"
+            ],
+            "correct_answer": "Isthmus of Panama",
+            "category": "Geography",
+            "difficulty": "hard"
+        }
+    ]
+}

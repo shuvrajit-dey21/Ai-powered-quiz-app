@@ -1,0 +1,247 @@
+{
+    "easy": [
+        {
+            "question": "For the film \"Raiders of The Lost Ark\", what was Harrison Ford sick with during the filming of the Cairo chase?",
+            "options": [
+                "Acid Reflux ",
+                "Dysentery",
+                "Anemia",
+                "Constipation"
+            ],
+            "correct_answer": "Dysentery",
+            "category": "Movies",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Who plays Alice in the Resident Evil movies?",
+            "options": [
+                "Kim Demp",
+                "Milla Jovovich",
+                "Milla Johnson",
+                "Madison Derpe"
+            ],
+            "correct_answer": "Milla Jovovich",
+            "category": "Movies",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie \"Batman\"?",
+            "options": [
+                "George Clooney",
+                "Adam West",
+                "Michael Keaton",
+                "Val Kilmer"
+            ],
+            "correct_answer": "Michael Keaton",
+            "category": "Movies",
+            "difficulty": "easy"
+        },
+        {
+            "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+            "options": [
+                "Highlander",
+                "Howard the Duck",
+                "Labyrinth",
+                "Flash Gordon"
+            ],
+            "correct_answer": "Highlander",
+            "category": "Movies",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which film has been critically regarded as the best film of all time?",
+            "options": [
+                "The Godfather Part II",
+                "Avatar",
+                "Citizen Kane",
+                "The Room"
+            ],
+            "correct_answer": "Citizen Kane",
+            "category": "Movies",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Who directed the movies \"Pulp Fiction\", \"Reservoir Dogs\" and \"Django Unchained\"?",
+            "options": [
+                "James Cameron",
+                "Steven Spielberg",
+                "Martin Scorcese",
+                "Quentin Tarantino"
+            ],
+            "correct_answer": "Quentin Tarantino",
+            "category": "Movies",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Where does the original Friday The 13th movie take place?",
+            "options": [
+                "Camp Crystal Lake",
+                "Packanack",
+                "Camp Forest Green",
+                "Higgins Haven"
+            ],
+            "correct_answer": "Camp Crystal Lake",
+            "category": "Movies",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which of these films is NOT set in Los Angeles?",
+            "options": [
+                "Predator 2",
+                "Blade Runner",
+                "The Terminator",
+                "RoboCop"
+            ],
+            "correct_answer": "RoboCop",
+            "category": "Movies",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Who is frozen at the end of the movie \"Goldeneye\"?",
+            "options": [
+                "Boris Grishenko",
+                "Natalya Simonova",
+                "James Bond",
+                "Alec Travelyan"
+            ],
+            "correct_answer": "Boris Grishenko",
+            "category": "Movies",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+            "options": [
+                "Harry Potter",
+                "Spy Kids",
+                "Ted",
+                "Pirates of the Caribbean "
+            ],
+            "correct_answer": "Harry Potter",
+            "category": "Movies",
+            "difficulty": "easy"
+        }
+    ],
+    "medium": [],
+    "hard": [
+        {
+            "question": "What three movies, in order from release date, make up the \"Dollars Trilogy\"?",
+            "options": [
+                "\"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\", \"A Fistful of Dollars\"",
+                "\"For a Few Dollars More\", \"A Fistful of Dollars\", \"The Good, the Bad, and the Ugly\"",
+                "\"A Fistful of Dollars\", \"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\"",
+                "\"The Good, the Bad, and the Ugly\", \"For A Few Dollars More\", \"A Fistful of Dollars\""
+            ],
+            "correct_answer": "\"A Fistful of Dollars\", \"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\"",
+            "category": "Movies",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What was the name of the planet in \"Aliens\"?",
+            "options": [
+                "Weyland Yutani Corporation Base",
+                "DI-621",
+                "LV-426",
+                "FR-838"
+            ],
+            "correct_answer": "LV-426",
+            "category": "Movies",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+            "options": [
+                "The Day The Earth Stood Still",
+                "It Came from Outer Space",
+                "The Man from Planet X",
+                "Plan 9 from Outer Space"
+            ],
+            "correct_answer": "Plan 9 from Outer Space",
+            "category": "Movies",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What was Humphrey Bogart's middle name?",
+            "options": [
+                "DeForest",
+                "DeWinter",
+                "Bryce",
+                "Steven"
+            ],
+            "correct_answer": "DeForest",
+            "category": "Movies",
+            "difficulty": "hard"
+        },
+        {
+            "question": "How old was Laurence Fishburne when Francis Ford Coppola cast him in Apocalypse Now (1979)? ",
+            "options": [
+                "18",
+                "14",
+                "20",
+                "16"
+            ],
+            "correct_answer": "14",
+            "category": "Movies",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What was the last Marx Brothers film to feature Zeppo?",
+            "options": [
+                "Duck Soup",
+                "A Day at the Races",
+                "Monkey Business",
+                "A Night at the Opera"
+            ],
+            "correct_answer": "Duck Soup",
+            "category": "Movies",
+            "difficulty": "hard"
+        },
+        {
+            "question": "According to \"Star Wars\" lore, which planet does Obi-Wan Kenobi come from?",
+            "options": [
+                "Stewjon",
+                "Alderaan",
+                "Tatooine",
+                "Naboo"
+            ],
+            "correct_answer": "Stewjon",
+            "category": "Movies",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In the 1964 film \"Zulu\", what song does the British Army company sing before the final battle?",
+            "options": [
+                "Scotland the Brave",
+                "Colonel Bogey March",
+                "The British Grenadiers",
+                "Men of Harlech"
+            ],
+            "correct_answer": "Men of Harlech",
+            "category": "Movies",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In the \"Jurassic Park\" universe, when did \"Jurassic Park: San Diego\" begin construction?",
+            "options": [
+                "1993",
+                "1985",
+                "1986",
+                "1988"
+            ],
+            "correct_answer": "1985",
+            "category": "Movies",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In the 1974 Christmas flick \"The Year Without a Santa Claus,\" what are the names of the two elves who help Mrs. Claus save Christmas?",
+            "options": [
+                "Holly & Jolly",
+                "Buddy & Bobby",
+                "Snowflake & Icicle",
+                "Jingle & Jangle"
+            ],
+            "correct_answer": "Jingle & Jangle",
+            "category": "Movies",
+            "difficulty": "hard"
+        }
+    ]
+}

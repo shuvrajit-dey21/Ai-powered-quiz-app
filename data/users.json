@@ -1,0 +1,18 @@
+{
+    "shuvrajit": {
+        "email": "shuvrajit@gmail.com",
+        "password": "fe6ea84962fe6eb01a69af43b9e9b2b9f83ce52949960bfaef9c945aeba41e86",
+        "joined_date": "2025-04-20T12:45:28.787474",
+        "quiz_history": [],
+        "total_quizzes": 0,
+        "best_score": 0
+    },
+    "diganta": {
+        "email": "diganta@gmail.com",
+        "password": "a5a8c8448e504e93c25737a8236330fb155fe0db9983187698401935c1911340",
+        "joined_date": "2025-04-20T17:25:46.941248",
+        "quiz_history": [],
+        "total_quizzes": 0,
+        "best_score": 0
+    }
+}

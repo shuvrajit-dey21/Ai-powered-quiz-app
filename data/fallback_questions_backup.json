@@ -1,0 +1,154 @@
+{
+    "Science": {
+        "easy": [
+            {
+                "question": "What is the chemical symbol for water?",
+                "options": [
+                    "H2O",
+                    "CO2",
+                    "NaCl",
+                    "O2"
+                ],
+                "correct_answer": "H2O",
+                "category": "Science",
+                "difficulty": "easy"
+            },
+            {
+                "question": "Which planet is known as the Red Planet?",
+                "options": [
+                    "Mars",
+                    "Venus",
+                    "Jupiter",
+                    "Mercury"
+                ],
+                "correct_answer": "Mars",
+                "category": "Science",
+                "difficulty": "easy"
+            },
+            {
+                "question": "What is the closest star to Earth?",
+                "options": [
+                    "Sun",
+                    "Proxima Centauri",
+                    "Alpha Centauri",
+                    "Sirius"
+                ],
+                "correct_answer": "Sun",
+                "category": "Science",
+                "difficulty": "easy"
+            }
+        ],
+        "medium": [
+            {
+                "question": "Which element has the atomic number 79?",
+                "options": [
+                    "Gold",
+                    "Silver",
+                    "Platinum",
+                    "Copper"
+                ],
+                "correct_answer": "Gold",
+                "category": "Science",
+                "difficulty": "medium"
+            },
+            {
+                "question": "What is the process called where plants make their own food using sunlight?",
+                "options": [
+                    "Photosynthesis",
+                    "Respiration",
+                    "Digestion",
+                    "Fermentation"
+                ],
+                "correct_answer": "Photosynthesis",
+                "category": "Science",
+                "difficulty": "medium"
+            }
+        ],
+        "hard": [
+            {
+                "question": "What is the half-life of Carbon-14?",
+                "options": [
+                    "5,730 years",
+                    "1,600 years",
+                    "10,000 years",
+                    "3,200 years"
+                ],
+                "correct_answer": "5,730 years",
+                "category": "Science",
+                "difficulty": "hard"
+            },
+            {
+                "question": "Which subatomic particle has a positive charge?",
+                "options": [
+                    "Proton",
+                    "Neutron",
+                    "Electron",
+                    "Positron"
+                ],
+                "correct_answer": "Proton",
+                "category": "Science",
+                "difficulty": "hard"
+            }
+        ]
+    },
+    "History": {
+        "easy": [
+            {
+                "question": "Who was the first President of the United States?",
+                "options": [
+                    "George Washington",
+                    "Thomas Jefferson",
+                    "Abraham Lincoln",
+                    "John Adams"
+                ],
+                "correct_answer": "George Washington",
+                "category": "History",
+                "difficulty": "easy"
+            },
+            {
+                "question": "In what year did World War II end?",
+                "options": [
+                    "1945",
+                    "1939",
+                    "1942",
+                    "1944"
+                ],
+                "correct_answer": "1945",
+                "category": "History",
+                "difficulty": "easy"
+            }
+        ],
+        "medium": [],
+        "hard": []
+    },
+    "Geography": {
+        "easy": [],
+        "medium": [],
+        "hard": []
+    },
+    "Literature": {
+        "easy": [],
+        "medium": [],
+        "hard": []
+    },
+    "Movies": {
+        "easy": [],
+        "medium": [],
+        "hard": []
+    },
+    "Sports": {
+        "easy": [],
+        "medium": [],
+        "hard": []
+    },
+    "Technology": {
+        "easy": [],
+        "medium": [],
+        "hard": []
+    },
+    "Music": {
+        "easy": [],
+        "medium": [],
+        "hard": []
+    }
+}

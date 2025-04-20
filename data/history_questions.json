@@ -1,0 +1,428 @@
+{
+    "easy": [
+        {
+            "question": "Which of the following was Brazil was a former colony under?",
+            "options": [
+                "France",
+                "Portugal",
+                "Spain",
+                "The Netherlands"
+            ],
+            "correct_answer": "Portugal",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which modern country is known as \"The Graveyard of Empires\"?",
+            "options": [
+                "Afghanistan",
+                "Russia",
+                "Iraq",
+                "China"
+            ],
+            "correct_answer": "Afghanistan",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which one of these countries was NOT in the Central Powers during WWI?",
+            "options": [
+                "Turkey",
+                "Germany",
+                "Austria-Hungary",
+                "Spain"
+            ],
+            "correct_answer": "Spain",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What was the first sport to have been played on the moon?",
+            "options": [
+                "Tennis",
+                "Football",
+                "Soccer",
+                "Golf"
+            ],
+            "correct_answer": "Golf",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Who was the first prime minister of Canada?",
+            "options": [
+                "John Macdonald",
+                "John Abbott",
+                "Alexander Mackenzie",
+                "Robert Borden"
+            ],
+            "correct_answer": "John Macdonald",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Which country was Josef Stalin born in?",
+            "options": [
+                "Georgia",
+                "Germany",
+                "Russia",
+                "Poland"
+            ],
+            "correct_answer": "Georgia",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+            "options": [
+                "Salt Road",
+                "Clay Road",
+                "Silk Road",
+                "Spice Road"
+            ],
+            "correct_answer": "Silk Road",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "How long did World War II last?",
+            "options": [
+                "7 years",
+                "4 years",
+                "6 years",
+                "5 years"
+            ],
+            "correct_answer": "6 years",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "Who was the first president of the United States?",
+            "options": [
+                "Thomas Jefferson",
+                "James K. Polk",
+                "James Madison",
+                "George Washington"
+            ],
+            "correct_answer": "George Washington",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "When did the Byzantine Empire collapse?",
+            "options": [
+                "1453",
+                "1299",
+                "1498",
+                "1353"
+            ],
+            "correct_answer": "1453",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What does the United States of America celebrate during the 4th of July?",
+            "options": [
+                "The ratification of the Constitution",
+                "The signing of the Declaration of Independence",
+                "The crossing of the Delaware River",
+                "The anniversary of the Battle of Gettysburg"
+            ],
+            "correct_answer": "The signing of the Declaration of Independence",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+            "options": [
+                "Tokyo",
+                "Kawasaki",
+                "Nagasaki",
+                "Kagoshima"
+            ],
+            "correct_answer": "Nagasaki",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "How was Socrates executed?",
+            "options": [
+                "Crucifixion ",
+                "Poison",
+                "Decapitation",
+                "Firing squad"
+            ],
+            "correct_answer": "Poison",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+            "options": [
+                "1726",
+                "1724",
+                "1727",
+                "1721"
+            ],
+            "correct_answer": "1721",
+            "category": "History",
+            "difficulty": "easy"
+        },
+        {
+            "question": "In what year did the Wall Street Crash take place?",
+            "options": [
+                "1930",
+                "1929",
+                "1925",
+                "1932"
+            ],
+            "correct_answer": "1929",
+            "category": "History",
+            "difficulty": "easy"
+        }
+    ],
+    "medium": [
+        {
+            "question": "On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?",
+            "options": [
+                "USS Hornet",
+                "USS Lexington",
+                "USS Saratoga",
+                "USS Enterprise"
+            ],
+            "correct_answer": "USS Hornet",
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+            "options": [
+                "Commerce",
+                "Californian",
+                "Cristol",
+                "Carpathia"
+            ],
+            "correct_answer": "Californian",
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What is the oldest US state?",
+            "options": [
+                "Rhode Island",
+                "Maine",
+                "Virginia",
+                "Delaware"
+            ],
+            "correct_answer": "Delaware",
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "question": "One of the deadliest pandemics, the \"Spanish Flu\", killed off what percentage of the human world population at the time?",
+            "options": [
+                "1 to 3 percent",
+                "6 to 10 percent",
+                "less than 1 percent",
+                "3 to 6 percent"
+            ],
+            "correct_answer": "3 to 6 percent",
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "question": "The fraudelent doctor John R. Brinkley acummulated great fame and wealth in the early 1900s offering what service?",
+            "options": [
+                "Turkey breast implants",
+                "Pig blood transfusion",
+                "Goat testicles transplant",
+                "Cow liver transplant"
+            ],
+            "correct_answer": "Goat testicles transplant",
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "question": "The seed drill was invented by which British inventor?",
+            "options": [
+                "Jethro Tull",
+                "Charles Babbage",
+                "J.J Thomson",
+                "Isaac Newton"
+            ],
+            "correct_answer": "Jethro Tull",
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "question": "When did construction of the Suez Canal finish?",
+            "options": [
+                "1850",
+                "1869",
+                "1860",
+                "1859"
+            ],
+            "correct_answer": "1869",
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "question": "In the War of the Pacific (1879 - 1883), Bolivia lost its access to the Pacific Ocean after being defeated by which South American country?",
+            "options": [
+                "Peru",
+                "Chile",
+                "Brazil",
+                "Argentina"
+            ],
+            "correct_answer": "Chile",
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Which of the following ancient Near Eastern peoples still exists as a modern ethnic group?",
+            "options": [
+                "Assyrians",
+                "Babylonians",
+                "Hittites",
+                "Elamites"
+            ],
+            "correct_answer": "Assyrians",
+            "category": "History",
+            "difficulty": "medium"
+        },
+        {
+            "question": "In what dialogue did Socrates defend himself to the court of Athens? ",
+            "options": [
+                "The Euthyphro",
+                "The Apology",
+                "The Laws",
+                "The Republic"
+            ],
+            "correct_answer": "The Apology",
+            "category": "History",
+            "difficulty": "medium"
+        }
+    ],
+    "hard": [
+        {
+            "question": "What was the last colony the UK ceded marking the end of the British Empire?",
+            "options": [
+                "Australia",
+                "Hong Kong",
+                "India",
+                "Ireland"
+            ],
+            "correct_answer": "Hong Kong",
+            "category": "History",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
+            "options": [
+                "Charles V",
+                "Francis Joseph",
+                "Philip V",
+                "Philip II"
+            ],
+            "correct_answer": "Philip V",
+            "category": "History",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which King of England was faced with the Peasants' Revolt in 1381?",
+            "options": [
+                "Edward II",
+                "Edward III",
+                "Henry IV",
+                "Richard II"
+            ],
+            "correct_answer": "Richard II",
+            "category": "History",
+            "difficulty": "hard"
+        },
+        {
+            "question": "When was Adolf Hitler appointed as Chancellor of Germany?",
+            "options": [
+                "September 1, 1939",
+                "January 30, 1933",
+                "February 27, 1933",
+                "October 6, 1939"
+            ],
+            "correct_answer": "January 30, 1933",
+            "category": "History",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Who was the first man to travel into outer space twice?",
+            "options": [
+                "Yuri Gagarin",
+                "Vladimir Komarov",
+                "Charles Conrad",
+                "Gus Grissom"
+            ],
+            "correct_answer": "Gus Grissom",
+            "category": "History",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Which English king was married to Eleanor of Aquitaine?",
+            "options": [
+                "Richard I",
+                "Henry II",
+                "Henry I",
+                "Henry V"
+            ],
+            "correct_answer": "Henry II",
+            "category": "History",
+            "difficulty": "hard"
+        },
+        {
+            "question": "In the Seven Wonders of the World, which wonder is the only that has survived to this day?",
+            "options": [
+                "Statue of Zeus at Olympia",
+                "Colossus of Rhodes",
+                "Great Pyramid of Giza",
+                "Lighthouse of Alexandria"
+            ],
+            "correct_answer": "Great Pyramid of Giza",
+            "category": "History",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is the name of the Boeing B-29 that dropped the 'Little Boy' atomic bomb on Hiroshima?",
+            "options": [
+                "Full House",
+                "Enola Gay",
+                "The Great Artiste",
+                "Necessary Evil"
+            ],
+            "correct_answer": "Enola Gay",
+            "category": "History",
+            "difficulty": "hard"
+        },
+        {
+            "question": "What was the aim of the \"Umbrella Revolution\" in Hong Kong in 2014?",
+            "options": [
+                "Lower taxes",
+                "Genuine universal suffrage",
+                "Gaining Independence",
+                "Go back under British Rule"
+            ],
+            "correct_answer": "Genuine universal suffrage",
+            "category": "History",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?",
+            "options": [
+                "Navarre",
+                "Galicia",
+                "Le\u00f3n",
+                "Aragon"
+            ],
+            "correct_answer": "Aragon",
+            "category": "History",
+            "difficulty": "hard"
+        }
+    ]
+}

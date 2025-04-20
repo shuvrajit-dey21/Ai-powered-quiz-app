@@ -1,0 +1,65 @@
+{
+    "total_quizzes": 0,
+    "total_questions": 0,
+    "correct_answers": 0,
+    "average_score": 0,
+    "best_category": "None",
+    "best_score": 0,
+    "categories": {
+        "Geography": {
+            "total": 0,
+            "correct": 0,
+            "best_score": 0
+        },
+        "Science": {
+            "total": 0,
+            "correct": 0,
+            "best_score": 0
+        },
+        "Literature": {
+            "total": 0,
+            "correct": 0,
+            "best_score": 0
+        },
+        "Music": {
+            "total": 0,
+            "correct": 0,
+            "best_score": 0
+        },
+        "Sports": {
+            "total": 0,
+            "correct": 0,
+            "best_score": 0
+        },
+        "Movies": {
+            "total": 0,
+            "correct": 0,
+            "best_score": 0
+        },
+        "History": {
+            "total": 0,
+            "correct": 0,
+            "best_score": 0
+        },
+        "Technology": {
+            "total": 0,
+            "correct": 0,
+            "best_score": 0
+        }
+    },
+    "difficulties": {
+        "easy": {
+            "total": 0,
+            "correct": 0
+        },
+        "medium": {
+            "total": 0,
+            "correct": 0
+        },
+        "hard": {
+            "total": 0,
+            "correct": 0
+        }
+    },
+    "history": []
+}
